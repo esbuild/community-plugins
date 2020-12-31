@@ -6,7 +6,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ## Plugin list
 
-* *No one has added any plugins to this list yet*
+* [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous npm install.
 
 ## How to use a plugin
 
