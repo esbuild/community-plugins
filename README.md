@@ -7,6 +7,8 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 ## Plugin list
 
 * [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
+* [esbuild-plugin-deno-cache](https://github.com/dalcib/esbuild-plugin-deno-cache): A plugin to use Deno cache to http/https imports. It allows to use http/https module imports and bundle it without installing npm packages in node_modules. It works on nodejs.
+* [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous npm install.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 
