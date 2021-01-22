@@ -19,7 +19,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to css files.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
-
+* [essass](https://github.com/fayismahmood/sassEs/): A plugin that to transform SASS files to CSS files.
 ## How to use a plugin
 
 To use an esbuild plugin, you generally import it into your build script and then pass it to the esbuild API like this:
