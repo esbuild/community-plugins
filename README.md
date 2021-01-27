@@ -31,6 +31,9 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous npm install.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
 
+### Wrappers
+* [unpkg-bundler](https://www.npmjs.com/package/unpkg-bundler): Dynamically fetch and load npm packages from [unpkg](https://unpkg.com/) as well as transpile and bundle in the browser.
+
 ## How to use a plugin
 
 To use an esbuild plugin, you generally import it into your build script and then pass it to the esbuild API like this:
