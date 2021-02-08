@@ -8,6 +8,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### New file extensions
 
+* [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
 * [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
 * [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
@@ -20,7 +21,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to css files.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform SASS files to CSS files.
-* [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
 
 ### Other plugins
 
