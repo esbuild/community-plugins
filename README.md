@@ -38,6 +38,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-globals](https://github.com/a-b-r-o-w-n/esbuild-plugin-globals): A plugin to replace module contents with user provided globals.
 * [esbuild-plugin-ifdef](https://github.com/Jarred-Sumner/esbuild-plugin-ifdef) A plugin that adds conditional code compilation for JavaScript/TypeScript using `//#ifdef CONDITION` comments.
 * [esbuild-plugin-ignore](https://github.com/Knowre-Dev/esbuild-plugin-ignore): A plugin to ignore some certain dependencies from bundling.
+* [esbuild-plugin-inline-import](https://github.com/claviska/esbuild-plugin-inline-import): A plugin that inlines and optionally transforms imports with a configurable prefix.
 * [esbuild-plugin-pipe](https://github.com/nativew/esbuild-plugin-pipe): A plugin to pipe the output of esbuild plugins.
 * [esbuild-plugin-pnp](https://github.com/shiftx/esbuild-plugin-pnp): A plugin to support yarn 2 (berry) with PnP (Plug’n’Play).
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
