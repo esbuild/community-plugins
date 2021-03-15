@@ -21,6 +21,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-postcss2](https://github.com/martonlederer/esbuild-plugin-postcss2): A plugin to use preprocessors and CSS modules with postcss.
 * [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform SASS files to CSS files
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
+* [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
 * [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another SASS to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to css files.
