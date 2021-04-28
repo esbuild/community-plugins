@@ -40,6 +40,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
 * [esbuild-plugin-babel](https://github.com/nativew/esbuild-plugin-babel): A plugin to compile files with Babel.
 * [esbuild-plugin-browserify-adapter](https://github.com/m90/esbuild-plugin-browserify-adapter): An adapter to use existing Browserify transforms as esbuild plugins.
+* [esbuild-plugin-browserslist](https://github.com/nihalgonsalves/esbuild-plugin-browserslist): Configure esbuild targets based on a browserslist query.
 * [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules. It works with [import-maps](https://github.com/WICG/import-maps).
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace __fileLastModified__ with the actual time the file has been modified.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
