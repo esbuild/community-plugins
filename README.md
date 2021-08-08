@@ -98,10 +98,12 @@ More documentation about plugins and the plugin API is available [here](https://
 
 If you would like to add your plugin to this list, create a PR that updates this README file. The update should add a single bullet under the **Plugin list** section that starts with a link to the plugin and is followed by a brief one-sentence description. The text of the link should be the npm package name and it should be inserted in alphabetical order. It should look something like this:
 
-* [example-esbuild-plugin](https://github.com/esbuild/example-esbuild-plugin): A plugin to load `*.example` files.
+* [esbuild-plugin-example](https://github.com/your-username-here/your-plugin-name-here): A plugin to load `*.example` files.
 
 Before creating a PR, please make sure that:
 
 * The package is already published to npm
 * You are the author of the plugin
 * You are willing to respond to issues about the plugin if people file issues against it
+
+_Note: Even though the text "esbuild-plugin-example" above is a link, it's just example placeholder text. The project at the link destination intentionally doesn't exist. The text is only linked to demonstrate how you should format your entry._
