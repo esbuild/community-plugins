@@ -34,6 +34,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
 * [esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat): A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
+* [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
 * [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another SASS to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to css files.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
