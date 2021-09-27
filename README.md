@@ -8,6 +8,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### New file extensions (hosted on npm)
 
+* [esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin) A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
 * [@espack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin): A sass plugin using dart sass with type definitions.
 * [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
 * [esbuild-coffeescript](https://github.com/johnie/esbuild-coffeescript): A plugin to compile CoffeeScript files (`*.coffee` & `*.litcoffee` files).
