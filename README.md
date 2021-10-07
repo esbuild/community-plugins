@@ -18,6 +18,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
 * [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
+* [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
 * [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
 * [esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson) A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
 * [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker): A plugin to create inline [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) by importing `.worker.js` files.
