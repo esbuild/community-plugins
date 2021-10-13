@@ -17,8 +17,8 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
-* [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
 * [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
+* [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
 * [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
 * [esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson) A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
 * [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker): A plugin to create inline [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) by importing `.worker.js` files.
@@ -38,6 +38,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
 * [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
 * [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another Sass to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
+* [esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin) A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to CSS files.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
@@ -61,6 +62,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules. It works with [import-maps](https://github.com/WICG/import-maps).
 * [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): ESBuild convenience plugin for compiling typescript definitions along with javascript
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace __fileLastModified__ with the actual time the file has been modified.
+* [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
 * [esbuild-plugin-glob](https://github.com/waspeer/esbuild-plugin-glob): Use glob patterns as `entryPoints`
 * [esbuild-plugin-globals](https://github.com/a-b-r-o-w-n/esbuild-plugin-globals): A plugin to replace module contents with user provided globals.
