@@ -61,7 +61,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-browserslist](https://github.com/nihalgonsalves/esbuild-plugin-browserslist): Configure esbuild targets based on a browserslist query.
 * [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules. It works with [import-maps](https://github.com/WICG/import-maps).
 * [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): ESBuild convenience plugin for compiling typescript definitions along with javascript
-* [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace __fileLastModified__ with the actual time the file has been modified.
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
 * [esbuild-plugin-glob](https://github.com/waspeer/esbuild-plugin-glob): Use glob patterns as `entryPoints`
