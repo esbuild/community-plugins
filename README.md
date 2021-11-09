@@ -77,14 +77,14 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
 * [esbuild-plugin-purgecss](https://github.com/GitHubJiKe/esbuild-plugin-purgecss): A plugin to remove useless css class with purgecss.
 * [esbuild-plugin-resolve](https://github.com/markwylde/esbuild-plugin-resolve): Change where a module dependency is resolved/imported from.
+* [esbuild-plugin-simple-css-modules](https://gitlab.com/hesxenon/esbuild-plugin-simple-css-modules/-/tree/main): A plugin to transform `.module.css` files by prefixing classnames with a unique identifier
+* [esbuild-plugin-solid-js](https://gitlab.com/hesxenon/esbuild-plugin-solid-js/-/tree/main): A plugin to apply solids jsx transforms with esbuild (without breaking/dropping sourcemaps)
 * [esbuild-plugin-stimulus](https://github.com/zombiezen/esbuild-plugin-stimulus): A plugin to automatically [load Stimulus controllers](https://stimulus.hotwire.dev/handbook/installing) from a folder.
 * [esbuild-plugin-text-replace](https://github.com/aheissenberger/esbuild-plugin-text-replace): Replace content before bundling with support for Filefilter, Namespace, Regex and Functions.
 * [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform typescript files using the official [typescript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
-* [esbuild-plugin-solid-js](https://gitlab.com/hesxenon/esbuild-plugin-solid-js/-/tree/main): A plugin to apply solids jsx transforms with esbuild (without breaking/dropping sourcemaps)
-* [esbuild-plugin-simple-css-modules](https://gitlab.com/hesxenon/esbuild-plugin-simple-css-modules/-/tree/main): A plugin to transform `.module.css` files by prefixing classnames with a unique identifier
 
 ### Plugins not hosted on npm (e.g. for Deno)
 
