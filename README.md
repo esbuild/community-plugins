@@ -43,6 +43,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
+* [esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next): A plugin to transform Vue 3.x SFC (`*.vue` files).
 
 ### Other plugins (hosted on npm)
 
