@@ -34,6 +34,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-svgj](https://github.com/Jarred-Sumner/svgj): Import `*.svg` files as React components using svgj (~40x faster than svgr)
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
 * [esbuild-plugin-type-schema](https://github.com/mooooooi/esbuild-plugin-type-schema): A plugin to generate type schema using decorators in your custom way, Like `type-graphql`.
+* [esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next): A plugin to transform Vue 3.x SFC (`*.vue` files).
 * [esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat): A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
 * [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
@@ -43,7 +44,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
-* [esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next): A plugin to transform Vue 3.x SFC (`*.vue` files).
 
 ### Other plugins (hosted on npm)
 
