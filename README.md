@@ -63,6 +63,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
 * [esbuild-plugin-assets-manifest](https://github.com/indooorsman/esbuild-plugin-assets-manifest): A plugin to Generate manifest file like assets-webpack-plugin does.
 * [esbuild-plugin-babel](https://github.com/nativew/esbuild-plugin-babel): A plugin to compile files with Babel.
+* [esbuild-plugin-swc](https://github.com/sanyuan0704/esbuild-plugin-swc): A plugin to support swc transform in Esbuild.
 * [esbuild-plugin-browserify-adapter](https://github.com/m90/esbuild-plugin-browserify-adapter): An adapter to use existing Browserify transforms as esbuild plugins.
 * [esbuild-plugin-browserslist](https://github.com/nihalgonsalves/esbuild-plugin-browserslist): Configure esbuild targets based on a browserslist query.
 * [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules. It works with [import-maps](https://github.com/WICG/import-maps).
