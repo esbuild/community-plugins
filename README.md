@@ -42,6 +42,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin) A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to CSS files.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
+* [esbuild-squoosh](https://github.com/bognarlaszlo/esbuild-squoosh): A plugin for compressing/optimising images using libSquoosh
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [esbuilg-plugin-markdown-import](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-markdown-import): Import, bundle, customize markdown files(support markdown2html by `marked`.).
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
