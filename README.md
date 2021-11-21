@@ -8,44 +8,45 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### New file extensions (hosted on npm)
 
-* [@es-pack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin): A Sass plugin using Dart Sass with type definitions.
-* [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
-* [esbuild-coffeescript](https://github.com/johnie/esbuild-coffeescript): A plugin to compile CoffeeScript files (`*.coffee` & `*.litcoffee` files).
-* [esbuild-css-modules-plugin](https://github.com/indooorsman/esbuild-css-modules-plugin#readme): A plugin to bundle `xxx.modules.css` or `xxx.module.css` into `.js(x)/.ts(x)`. Can build with both `bundle: true` & `bundle: false`.
-* [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
-* [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
-* [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
-* [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
-* [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
-* [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
-* [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
-* [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
-* [esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson) A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
-* [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker): A plugin to create inline [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) by importing `.worker.js` files.
-* [esbuild-plugin-less](https://github.com/iam-medvedev/esbuild-plugin-less): A plugin to transform LESS files to CSS files.
-* [esbuild-plugin-lit-css](https://github.com/bennypowers/lit-css/tree/main/packages/esbuild-plugin-lit-css): Import CSS files as tagged-template literals
-* [esbuild-plugin-markdown](https://github.com/martonlederer/esbuild-plugin-markdown): Import & bundle markdown files
-* [esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss): A plugin to use PostCSS.
-* [esbuild-plugin-postcss2](https://github.com/martonlederer/esbuild-plugin-postcss2): A plugin to use preprocessors and CSS modules with PostCSS.
-* [esbuild-plugin-properties](https://github.com/pd4d10/esbuild-plugin-properties): A plugin to load `*.properties` files.
-* [esbuild-plugin-purescript](https://github.com/Mateiadrielrafael/esbuild-plugin-purescript): Adds support for importing [PureScript](https://www.purescript.org/) code.
-* [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform Sass files to CSS files
-* [esbuild-plugin-svg](https://github.com/nativew/esbuild-plugin-svg): A plugin to import SVG files.
-* [esbuild-plugin-svgj](https://github.com/Jarred-Sumner/svgj): Import `*.svg` files as React components using svgj (~40x faster than svgr)
-* [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
-* [esbuild-plugin-type-schema](https://github.com/mooooooi/esbuild-plugin-type-schema): A plugin to generate type schema using decorators in your custom way, Like `type-graphql`.
-* [esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next): A plugin to transform Vue 3.x SFC (`*.vue` files).
-* [esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat): A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).
-* [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
-* [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
-* [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another Sass to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
-* [esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin) A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
-* [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to CSS files.
-* [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
-* [esbuild-squoosh](https://github.com/bognarlaszlo/esbuild-squoosh): A plugin for compressing/optimising images using libSquoosh
-* [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
-* [esbuilg-plugin-markdown-import](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-markdown-import): Import, bundle, customize markdown files(support markdown2html by `marked`.).
-* [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
+|extension|plugin|description|
+|---|---|---|
+|.coffee|[esbuild-coffeescript](https://github.com/johnie/esbuild-coffeescript)|A plugin to compile CoffeeScript files (`*.coffee` & `*.litcoffee` files).|
+|.elm|[esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm)|A plugin to compile an elm project with esbuild.|
+|.glsl|[esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl)|A plugin that adds support for GLSL file imports with optional shader minification.|
+|.glsl|[esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline)|A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).|
+|.glsl|[esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify)|A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for |GLSL).
+|.glslx|[esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx)|A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.|
+|.graphql|[esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader)|A plugin allowing for GraphQL file imports.|
+|.hjson|[esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson)|A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
+|.less|[esbuild-plugin-less](https://github.com/iam-medvedev/esbuild-plugin-less)|A plugin to transform LESS files to CSS files.|
+|.lit|[esbuild-plugin-lit-css](https://github.com/bennypowers/lit-css/tree/main/packages/esbuild-plugin-lit-css)|Import CSS files as tagged-template literals|
+|.md|[esbuild-mdx](https://github.com/zaydek/esbuild-mdx)|A plugin to render `.md` and `.mdx`-delimited files as React components.|
+|.md|[esbuild-plugin-markdown](https://github.com/martonlederer/esbuild-plugin-markdown)|Import & bundle markdown files|
+|.md|[esbuilg-plugin-markdown-import](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-markdown-import)|Import, bundle, customize markdown files(support markdown2html by |`marked`.).
+|.modules.css|[esbuild-css-modules-plugin](https://github.com/indooorsman/esbuild-css-modules-plugin#readme)|A plugin to bundle `xxx.modules.css` or `xxx.module.css` into `.js(x)/.ts(x)`. Can build with both |`bundle: true` & `bundle: false`.
+|.modules.css|[esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules)|Another one plugin to support CSS-modules (partially)|
+|.postcss|[esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss)|A plugin to use PostCSS.|
+|.postcss|[esbuild-plugin-postcss2](https://github.com/martonlederer/esbuild-plugin-postcss2)|A plugin to use preprocessors and CSS modules with PostCSS.|
+|.postcss|[esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss)|A plugin to transform PostCSS files to CSS.|
+|.properties|[esbuild-plugin-properties](https://github.com/pd4d10/esbuild-plugin-properties)|A plugin to load `*.properties` files.|
+|.purescript|[esbuild-plugin-purescript](https://github.com/Mateiadrielrafael/esbuild-plugin-purescript)|Adds support for importing [PureScript](https://www.purescript.org/) code.|
+|.sass<br>.stylus<br>.less|[esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin)|A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
+|.sass|[@es-pack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin)|A Sass plugin using Dart Sass with type definitions.|
+|.sass|[esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/)|A plugin to transform Sass files to CSS files|
+|.sass|[esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/)|Yet another Sass to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)|
+|.sass|[essass](https://github.com/fayismahmood/sassEs/)|A plugin to transform Sass files to CSS files.|
+|.schema.json|[@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema)|Compile and pack JSON schema definitions on import.|
+|.schema|[esbuild-plugin-type-schema](https://github.com/mooooooi/esbuild-plugin-type-schema)|A plugin to generate type schema using decorators in your custom way, Like `type-graphql`.|
+|.stylus|[esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader)|A plugin to transform stylus files to CSS files.|
+|.svelte|[esbuild-svelte](https://github.com/EMH333/esbuild-svelte)|A plugin to load and compile Svelte components.|
+|.svg|[esbuild-plugin-svg](https://github.com/nativew/esbuild-plugin-svg)|A plugin to import SVG files.|
+|.svg|[esbuild-plugin-svgj](https://github.com/Jarred-Sumner/svgj)|Import `*.svg` files as React components using svgj (~40x faster than svgr)|
+|.svg|[esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr)|A plugin to import `*.svg` files as React components.|
+|.vue|[esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next)|A plugin to transform Vue 3.x SFC (`*.vue` files).|
+|.vue|[esbuild-vue](https://github.com/apeschar/esbuild-vue)|A plugin to load and compile Vue 2 single-file components (`*.vue` files).|
+|.wasm|[esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat)|A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).|
+|.worker|[esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker)|A plugin to create inline [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/|Web_Workers_API) by importing `.worker.js` files.
+|.yaml|[esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml)|A plugin to load YAML files as ES6 modules.|
 
 ### Other plugins (hosted on npm)
 
