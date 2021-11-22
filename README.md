@@ -105,7 +105,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 ### Plugins not hosted on npm (e.g. for Deno)
 
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
-* [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that evaluates a module before importing it.
+* [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
 
 ## How to use a plugin
 
