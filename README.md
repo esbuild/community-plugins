@@ -106,6 +106,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
 * [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
+* [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
 
 ## How to use a plugin
 
