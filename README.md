@@ -73,6 +73,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-copy](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-copy): esbuild plugin for assets copy.
 * [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): esbuild convenience plugin for compiling typescript definitions along with JavaScript
 * [esbuild-plugin-decorator](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-decorator): esbuild plugin for TypeScript decorators compilation, support `tsc`/`swc`.
+* [esbuild-plugin-execute](https://github.com/qiweiii/esbuild-plugin-execute): A plugin to create esbuild plugins with executables.
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
 * [esbuild-plugin-filesize](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-filesize): esbuild plugin for displaying output file size info.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
