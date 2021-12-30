@@ -57,6 +57,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@yarnpkg/esbuild-plugin-pnp](https://github.com/yarnpkg/berry/tree/master/packages/esbuild-plugin-pnp#yarnpkgesbuild-plugin-pnp): A plugin adding support for [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp) installs.
 * [decky](https://github.com/jarred-sumner/decky): A plugin that makes TypeScript experimental decorators run at compile-time, enabling macros and potentially reducing bundle size
 * [esbuild-copy-plugin](https://github.com/DasRed/esbuild-plugin-copy): A plugin to copy some files from one destination to another
+* [esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files): An esbuild plugin to efficiently copy static files from a source directory to a destination directory
 * [esbuild-cross-browser-css](https://github.com/plxity/esbuild-cross-browser-css): A plugin to make CSS compatible for all the different browsers.
 * [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server): A plugin allows you to start a local server with hot reloading.
 * [esbuild-gas-plugin](https://github.com/mahaker/esbuild-gas-plugin): A plugin that generate codes for Google Apps Script.
