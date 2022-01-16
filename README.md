@@ -47,6 +47,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [esbuilg-plugin-markdown-import](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-markdown-import): Import, bundle, customize markdown files(support markdown2html by `marked`.).
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
+* [esbuild-plugin-toml](https://github.com/SilentVoid13/esbuild-plugin-toml): A plugin to load `*.toml` files.
 
 ### Other plugins (hosted on npm)
 
