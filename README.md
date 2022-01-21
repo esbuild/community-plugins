@@ -14,6 +14,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-css-modules-plugin](https://github.com/indooorsman/esbuild-css-modules-plugin#readme): A plugin to bundle `xxx.modules.css` or `xxx.module.css` into `.js(x)/.ts(x)`. Can build with both `bundle: true` & `bundle: false`.
 * [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
 * [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
+* [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
@@ -63,7 +64,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-cross-browser-css](https://github.com/plxity/esbuild-cross-browser-css): A plugin to make CSS compatible for all the different browsers.
 * [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server): A plugin allows you to start a local server with hot reloading.
 * [esbuild-gas-plugin](https://github.com/mahaker/esbuild-gas-plugin): A plugin that generate codes for Google Apps Script.
-* [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
 * [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform typescript compilerOptions.path at compile-time.
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
 * [esbuild-plugin-assets-manifest](https://github.com/indooorsman/esbuild-plugin-assets-manifest): A plugin to Generate manifest file like assets-webpack-plugin does.
