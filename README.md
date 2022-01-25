@@ -88,6 +88,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-inline-import](https://github.com/claviska/esbuild-plugin-inline-import): A plugin that inlines and optionally transforms imports with a configurable prefix.
 * [esbuild-plugin-lodash](https://github.com/josteph/esbuild-plugin-lodash): A plugin that helps tree-shake non-es lodash imports, similar to how [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) works.
 * [esbuild-plugin-manifest](https://github.com/jfortunato/esbuild-plugin-manifest): A plugin to generate a hashed asset manifest file.
+* [esbuild-plugin-mxn-copy](https://github.com/ZimNovich/esbuild-plugin-mxn-copy): A esbuild plugin for copying assets into the output directory of your bundle.
 * [esbuild-plugin-node-externals](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-node-externals): esbuild plugin for node externals handing.
 * [esbuild-plugin-path-alias](https://github.com/indooorsman/esbuild-plugin-path-alias): A esbuild plugin to support path alias like `resolve.alias` in webpack config.
 * [esbuild-plugin-pipe](https://github.com/nativew/esbuild-plugin-pipe): A plugin to pipe the output of esbuild plugins.
