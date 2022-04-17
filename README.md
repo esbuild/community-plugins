@@ -77,6 +77,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-clear](https://github.com/DasRed/esbuild-plugin-clear): A plugin to clear a directory.
 * [esbuild-plugin-compress](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-compress): esbuild plugin for output compression (gzip/brotli).
 * [esbuild-plugin-copy](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-copy): esbuild plugin for assets copy.
+* [esbuild-plugin-copy-file](https://github.com/ozanozbek/esbuild-plugin-copy-file): A plugin for asynchronously copying files in parallel before or after bundling.
 * [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): esbuild convenience plugin for compiling typescript definitions along with JavaScript
 * [esbuild-plugin-decorator](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-decorator): esbuild plugin for TypeScript decorators compilation, support `tsc`/`swc`.
 * [esbuild-plugin-eslint](https://github.com/robinloeffel/esbuild-plugin-eslint): Lint your esbuild bundles with eslint. 🧐 
@@ -111,6 +112,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform typescript files using the official [typescript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
+* [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
 * [esbuild-plugin-babel-flow](https://github.com/henrhie/esbuild-plugin-babel-flow): A plugin that allows you to strip off Flow annotations from javascript code using babel.
 
