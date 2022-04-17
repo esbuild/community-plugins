@@ -66,9 +66,10 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-cross-browser-css](https://github.com/plxity/esbuild-cross-browser-css): A plugin to make CSS compatible for all the different browsers.
 * [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server): A plugin allows you to start a local server with hot reloading.
 * [esbuild-gas-plugin](https://github.com/mahaker/esbuild-gas-plugin): A plugin that generate codes for Google Apps Script.
-* [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform typescript compilerOptions.path at compile-time.
+* [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform TypeScript `compilerOptions.path` at compile-time.
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
 * [esbuild-plugin-assets-manifest](https://github.com/indooorsman/esbuild-plugin-assets-manifest): A plugin to Generate manifest file like assets-webpack-plugin does.
+* [esbuild-plugin-babel-flow](https://github.com/henrhie/esbuild-plugin-babel-flow): A plugin that allows you to strip off Flow annotations from JavaScript code using Babel.
 * [esbuild-plugin-babel](https://github.com/nativew/esbuild-plugin-babel): A plugin to compile files with Babel.
 * [esbuild-plugin-browserify-adapter](https://github.com/m90/esbuild-plugin-browserify-adapter): An adapter to use existing Browserify transforms as esbuild plugins.
 * [esbuild-plugin-browserslist](https://github.com/nihalgonsalves/esbuild-plugin-browserslist): Configure esbuild targets based on a browserslist query.
@@ -76,9 +77,9 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-clean](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-clean): esbuild plugin for cleaning up output before build.
 * [esbuild-plugin-clear](https://github.com/DasRed/esbuild-plugin-clear): A plugin to clear a directory.
 * [esbuild-plugin-compress](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-compress): esbuild plugin for output compression (gzip/brotli).
-* [esbuild-plugin-copy](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-copy): esbuild plugin for assets copy.
 * [esbuild-plugin-copy-file](https://github.com/ozanozbek/esbuild-plugin-copy-file): A plugin for asynchronously copying files in parallel before or after bundling.
-* [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): esbuild convenience plugin for compiling typescript definitions along with JavaScript
+* [esbuild-plugin-copy](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-copy): esbuild plugin for assets copy.
+* [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): esbuild convenience plugin for compiling TypeScript definitions along with JavaScript
 * [esbuild-plugin-decorator](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-decorator): esbuild plugin for TypeScript decorators compilation, support `tsc`/`swc`.
 * [esbuild-plugin-eslint](https://github.com/robinloeffel/esbuild-plugin-eslint): Lint your esbuild bundles with eslint. 🧐 
 * [esbuild-plugin-eslinter](https://github.com/TurtIeSocks/esbuild-plugin-eslinter): A plugin for linting your builds, includes caching and node_module exclusion.
@@ -109,12 +110,11 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-swc](https://github.com/sanyuan0704/esbuild-plugin-swc): A plugin to support swc transform in Esbuild.
 * [esbuild-plugin-text-replace](https://github.com/aheissenberger/esbuild-plugin-text-replace): Replace content before bundling with support for Filefilter, Namespace, Regex and Functions.
 * [esbuild-plugin-time](https://github.com/DasRed/esbuild-plugin-time): A simple plugin for time measuring of the build process.
-* [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform typescript files using the official [typescript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
+* [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform TypeScript files using the official [TypeScript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
-* [esbuild-plugin-babel-flow](https://github.com/henrhie/esbuild-plugin-babel-flow): A plugin that allows you to strip off Flow annotations from javascript code using babel.
 
 ### Plugins not hosted on npm (e.g. for Deno)
 
