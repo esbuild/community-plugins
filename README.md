@@ -52,6 +52,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [esgleam](https://github.com/bwireman/esgleam): A plugin to compile gleam projects with esbuild.
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
+* [@exact-realty/esbuild-plugin-responsive-images](https://github.com/Exact-Realty/esbuild-plugin-responsive-images): A plugin for responsive images using Sharp for automatic resizing and conversion.
 
 ### Other plugins (hosted on npm)
 
@@ -116,6 +117,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
+* [@exact-realty/esbuild-plugin-inline-js](https://github.com/Exact-Realty/esbuild-plugin-inline-js): A plugin for inline scripts with SRI support; runs a separate esbuild process and returns a string for ease of embedding.
 
 ### Plugins not hosted on npm (e.g. for Deno)
 
