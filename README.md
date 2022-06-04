@@ -18,7 +18,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
-* [esbuild-plugin-glob-import](https://github.com/whaaaley/esbuild-plugin-glob-import): Use globs to import multiple files.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
 * [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
 * [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
@@ -92,6 +91,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
 * [esbuild-plugin-filesize](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-filesize): esbuild plugin for displaying output file size info.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
+* [esbuild-plugin-glob-import](https://github.com/whaaaley/esbuild-plugin-glob-import): Use globs to import multiple files.
 * [esbuild-plugin-glob](https://github.com/waspeer/esbuild-plugin-glob): Use glob patterns as `entryPoints`
 * [esbuild-plugin-globals](https://github.com/a-b-r-o-w-n/esbuild-plugin-globals): A plugin to replace module contents with user provided globals.
 * [esbuild-plugin-ifdef](https://github.com/Jarred-Sumner/esbuild-plugin-ifdef) A plugin that adds conditional code compilation for JavaScript/TypeScript using `//#ifdef CONDITION` comments.
