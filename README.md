@@ -86,7 +86,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): esbuild convenience plugin for compiling TypeScript definitions along with JavaScript
 * [esbuild-plugin-decorator](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-decorator): esbuild plugin for TypeScript decorators compilation, support `tsc`/`swc`.
 * [esbuild-plugin-dev-server](https://github.com/kmalakoff/esbuild-plugin-dev-server): Dev server for esbuild with live reload and error overlay.
-* [esbuild-plugin-eslint](https://github.com/robinloeffel/esbuild-plugin-eslint): Lint your esbuild bundles with eslint. 🧐 
+* [esbuild-plugin-eslint](https://github.com/robinloeffel/esbuild-plugin-eslint): Lint your esbuild bundles with eslint. 🧐
 * [esbuild-plugin-eslinter](https://github.com/TurtIeSocks/esbuild-plugin-eslinter): A plugin for linting your builds, includes caching and node_module exclusion.
 * [esbuild-plugin-execute](https://github.com/qiweiii/esbuild-plugin-execute): A plugin to create esbuild plugins with executables.
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
@@ -104,10 +104,13 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-mxn-copy](https://github.com/ZimNovich/esbuild-plugin-mxn-copy): A esbuild plugin for copying assets into the output directory of your bundle.
 * [esbuild-plugin-node-externals](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-node-externals): esbuild plugin for node externals handing.
 * [esbuild-plugin-path-alias](https://github.com/indooorsman/esbuild-plugin-path-alias): A esbuild plugin to support path alias like `resolve.alias` in webpack config.
+* [esbuild-plugin-pino](https://github.com/davipon/esbuild-plugin-pino): An esbuild plugin to generate extra pino files for bundling
 * [esbuild-plugin-pipe](https://github.com/nativew/esbuild-plugin-pipe): A plugin to pipe the output of esbuild plugins.
 * [esbuild-plugin-pnp](https://github.com/shiftx/esbuild-plugin-pnp): A plugin to support yarn 2 (berry) with PnP (Plug’n’Play).
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
+* [esbuild-plugin-progress](https://github.com/kmalakoff/esbuild-plugin-progress): A plugin to add a progress spinner to esbuild.
 * [esbuild-plugin-purgecss](https://github.com/GitHubJiKe/esbuild-plugin-purgecss): A plugin to remove useless css class with purgecss.
+* [esbuild-plugin-realpath](https://github.com/kmalakoff/esbuild-plugin-realpath): A plugin to resolve the fs.realpath for modules in monorepos targeting the browser and node.
 * [esbuild-plugin-resolve](https://github.com/markwylde/esbuild-plugin-resolve): Change where a module dependency is resolved/imported from.
 * [esbuild-plugin-run](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-run): esbuild plugin to execute output file after build.
 * [esbuild-plugin-simple-css-modules](https://gitlab.com/hesxenon/esbuild-plugin-simple-css-modules/-/tree/main): A plugin to transform `.module.css` files by prefixing classnames with a unique identifier
