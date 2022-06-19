@@ -63,7 +63,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@linjiajian999/esbuild-plugin-import](https://github.com/linjiajian999/esbuild-plugin-import): A plugin for modular import from ant, lodash, etc., similar to [babel-plugin-import](https://github.com/ant-design/babel-plugin-import).
 * [@yarnpkg/esbuild-plugin-pnp](https://github.com/yarnpkg/berry/tree/master/packages/esbuild-plugin-pnp#yarnpkgesbuild-plugin-pnp): A plugin adding support for [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp) installs.
 * [decky](https://github.com/jarred-sumner/decky): A plugin that makes TypeScript experimental decorators run at compile-time, enabling macros and potentially reducing bundle size
-* [esbuild-cf-functions-plugin](https://github.com/BeeeQueue/esbuild-cf-functions-plugin): A plugin for building code compatible with CloudFront Functions
+* [esbuild-cf-functions-plugin](https://github.com/BeeeQueue/esbuild-cf-functions-plugin): A plugin for building code [compatible](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/functions-javascript-runtime-features.html) with [CloudFront Functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/functions-javascript-runtime-features.html)
 * [esbuild-copy-files-plugin](https://github.com/whatdoyouseedoc/esbuild-copy-files-plugin/): Simple plugin that helps to copy files and folders across the application
 * [esbuild-copy-plugin](https://github.com/DasRed/esbuild-plugin-copy): A plugin to copy some files from one destination to another
 * [esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files): An esbuild plugin to efficiently copy static files from a source directory to a destination directory
