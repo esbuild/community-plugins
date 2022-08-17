@@ -125,6 +125,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-swc](https://github.com/sanyuan0704/esbuild-plugin-swc): A plugin to support swc transform in Esbuild.
 * [esbuild-plugin-text-replace](https://github.com/aheissenberger/esbuild-plugin-text-replace): Replace content before bundling with support for Filefilter, Namespace, Regex and Functions.
 * [esbuild-plugin-time](https://github.com/DasRed/esbuild-plugin-time): A simple plugin for time measuring of the build process.
+* [esbuild-plugin-transform](https://github.com/sxzz/esbuild-plugin-transform): A plugin to pipe transformation plugins for esbuild.
 * [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform TypeScript files using the official [TypeScript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
