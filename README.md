@@ -60,6 +60,8 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@anatine/esbuild-decorators](https://github.com/anatine/esbuildnx/tree/main/packages/esbuild-decorators): This is a plugin for esbuild to handle the tsconfig setting `"emitDecoratorMetadata": true` using tsc to transpile `.ts` or `.tsx` files with decorators.
 * [@craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) A Plugin to create `*.html`-files from specified entry points.
 * [@exact-realty/esbuild-plugin-inline-js](https://github.com/Exact-Realty/esbuild-plugin-inline-js): A plugin for inline scripts with SRI support; runs a separate esbuild process and returns a string for ease of embedding.
+* [@es-exec/esbuild-plugin-serve](https://github.com/tim117/es-exec/tree/main/plugins/es-serve): A plugin for running your build output in a child process after the project build completes.
+* [@es-exec/esbuild-plugin-start](https://github.com/tim117/es-exec/tree/main/plugins/es-start): A plugin for running a script after your build completes, similar to [nodemon](https://github.com/remy/nodemon).
 * [@fal-works/esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals): A plugin to replace module imports with global variables.
 * [@linjiajian999/esbuild-plugin-import](https://github.com/linjiajian999/esbuild-plugin-import): A plugin for modular import from ant, lodash, etc., similar to [babel-plugin-import](https://github.com/ant-design/babel-plugin-import).
 * [@yarnpkg/esbuild-plugin-pnp](https://github.com/yarnpkg/berry/tree/master/packages/esbuild-plugin-pnp#yarnpkgesbuild-plugin-pnp): A plugin adding support for [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp) installs.
