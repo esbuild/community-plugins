@@ -90,6 +90,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-copy-file](https://github.com/ozanozbek/esbuild-plugin-copy-file): A plugin for asynchronously copying files in parallel before or after bundling.
 * [esbuild-plugin-copy-watch](https://github.com/tinchoz49/esbuild-plugin-copy-watch): A plugin to watch and copy static files.
 * [esbuild-plugin-copy](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-copy): esbuild plugin for assets copy.
+* [esbuild-plugin-d-ts-path-alias](https://github.com/ArtemKlyuev/esbuild-plugin-d-ts-path-alias): esbuild plugin for compiling typescript declarations along with path aliases transformation.
 * [esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts): esbuild convenience plugin for compiling TypeScript definitions along with JavaScript
 * [esbuild-plugin-decorator](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-decorator): esbuild plugin for TypeScript decorators compilation, support `tsc`/`swc`.
 * [esbuild-plugin-dev-server](https://github.com/kmalakoff/esbuild-plugin-dev-server): Dev server for esbuild with live reload and error overlay.
