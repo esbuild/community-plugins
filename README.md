@@ -59,6 +59,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 ### Other plugins (hosted on npm)
 
 * [@anatine/esbuild-decorators](https://github.com/anatine/esbuildnx/tree/main/packages/esbuild-decorators): This is a plugin for esbuild to handle the tsconfig setting `"emitDecoratorMetadata": true` using tsc to transpile `.ts` or `.tsx` files with decorators.
+* [@akrc/esbuild-plugin-clean](https://github.com/akarachen/esbuild-plugin-clean): A plugin to clean the output dir.
 * [@craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) A Plugin to create `*.html`-files from specified entry points.
 * [@datadog/build-plugin](https://github.com/DataDog/build-plugin) A plugin to monitor your build performances.
 * [@es-exec/esbuild-plugin-serve](https://github.com/tim117/es-exec/tree/main/plugins/es-serve): A plugin for running your build output in a child process after the project build completes.
