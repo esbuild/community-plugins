@@ -88,6 +88,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules. It works with [import-maps](https://github.com/WICG/import-maps).
 * [esbuild-plugin-clean](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-clean): esbuild plugin for cleaning up output before build.
 * [esbuild-plugin-clear](https://github.com/DasRed/esbuild-plugin-clear): A plugin to clear a directory.
+* [esbuild-plugin-output-reset](https://github.com/yamitsushi/esbuild-plugin-output-reset): A better plugin to reset output directory for new build.
 * [esbuild-plugin-compress](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-compress): esbuild plugin for output compression (gzip/brotli).
 * [esbuild-plugin-copy-file](https://github.com/ozanozbek/esbuild-plugin-copy-file): A plugin for asynchronously copying files in parallel before or after bundling.
 * [esbuild-plugin-copy-watch](https://github.com/tinchoz49/esbuild-plugin-copy-watch): A plugin to watch and copy static files.
