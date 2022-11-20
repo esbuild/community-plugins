@@ -66,6 +66,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@exact-realty/esbuild-plugin-inline-js](https://github.com/Exact-Realty/esbuild-plugin-inline-js): A plugin for inline scripts with SRI support; runs a separate esbuild process and returns a string for ease of embedding.
 * [@fal-works/esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals): A plugin to replace module imports with global variables.
 * [@linjiajian999/esbuild-plugin-import](https://github.com/linjiajian999/esbuild-plugin-import): A plugin for modular import from ant, lodash, etc., similar to [babel-plugin-import](https://github.com/ant-design/babel-plugin-import).
+* [@stylify/unplugin](https://github.com/stylify/packages): A plugin for [Stylify CSS](https://stylifycss.com) with which you can use CSS-like selectors to style your website.
 * [@yarnpkg/esbuild-plugin-pnp](https://github.com/yarnpkg/berry/tree/master/packages/esbuild-plugin-pnp#yarnpkgesbuild-plugin-pnp): A plugin adding support for [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp) installs.
 * [altv-esbuild](https://github.com/xxshady/altv-esbuild): Smoother development as well as production of JS/TS server/client scripts on the [alt:V](https://altv.mp) platform.
 * [decky](https://github.com/jarred-sumner/decky): A plugin that makes TypeScript experimental decorators run at compile-time, enabling macros and potentially reducing bundle size
