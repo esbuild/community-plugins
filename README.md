@@ -150,6 +150,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
 * [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
+* [esbuild-plugin-sass-deno](https://deno.land/x/esbuild_plugin_sass_deno@v0.1.0): A Plugin which adds support for SASS/SCSS using `denosass`. 
 
 ## How to use a plugin
 
