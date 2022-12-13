@@ -23,6 +23,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
 * [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
 * [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
+* [esbuild-plugin-handlebars](https://github.com/Inqnuam/esbuild-plugin-handlebars) A plugin to handle ... handlebars!.
 * [esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson) A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
 * [esbuild-plugin-html-modules](https://github.com/whitefusionhq/esbuild-plugin-html-modules) A plugin to load HTML Modules based on [the proposed spec](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/html-modules-explainer.md).
 * [esbuild-plugin-inline-image](https://github.com/natrim/esbuild-plugin-inline-image) A plugin that switches loader for images between file and dataurl depending on size
