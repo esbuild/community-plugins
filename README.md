@@ -18,7 +18,9 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
 * [esbuild-plugin-class-modules](https://github.com/inqnuam/esbuild-plugin-class-modules): A plugin to compile your stylesheets with Saas, PostCSS and CSS Modules.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
+* [esbuild-plugin-define](https://github.com/webdeveric/esbuild-plugin-define): Flatten an object and pass it to esbuild's `define`.
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
+* [esbuild-plugin-environment](https://github.com/webdeveric/esbuild-plugin-environment): Define `process.env` variables. It accepts an array of keys or an object with keys mapped to their default values.
 * [esbuild-plugin-global-api](https://github.com/DarrenDanielDay/esbuild-plugin-global-api): An esbuild plugin for simplifying global API calls.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
 * [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
