@@ -19,6 +19,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-class-modules](https://github.com/inqnuam/esbuild-plugin-class-modules): A plugin to compile your stylesheets with Saas, PostCSS and CSS Modules.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
 * [esbuild-plugin-define](https://github.com/webdeveric/esbuild-plugin-define): Flatten an object and pass it to esbuild's `define`.
+* [esbuild-plugin-env](https://github.com/yamitsushi/esbuild-plugin-env): Update `process.env` variables. Uses dotenv and pass it to esbuild.
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
 * [esbuild-plugin-environment](https://github.com/webdeveric/esbuild-plugin-environment): Define `process.env` variables. It accepts an array of keys or an object with keys mapped to their default values.
 * [esbuild-plugin-global-api](https://github.com/DarrenDanielDay/esbuild-plugin-global-api): An esbuild plugin for simplifying global API calls.
