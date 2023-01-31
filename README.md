@@ -95,7 +95,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache): A plugin to cache http/https modules. It works with [import-maps](https://github.com/WICG/import-maps).
 * [esbuild-plugin-clean](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-clean): esbuild plugin for cleaning up output before build.
 * [esbuild-plugin-clear](https://github.com/DasRed/esbuild-plugin-clear): A plugin to clear a directory.
-* [esbuild-plugin-output-reset](https://github.com/yamitsushi/esbuild-plugin-output-reset): Minimal plugin to clean output before starting a new build.
 * [esbuild-plugin-compress](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-compress): esbuild plugin for output compression (gzip/brotli).
 * [esbuild-plugin-copy-file](https://github.com/ozanozbek/esbuild-plugin-copy-file): A plugin for asynchronously copying files in parallel before or after bundling.
 * [esbuild-plugin-copy-watch](https://github.com/tinchoz49/esbuild-plugin-copy-watch): A plugin to watch and copy static files.
@@ -124,6 +123,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-manifest](https://github.com/jfortunato/esbuild-plugin-manifest): A plugin to generate a hashed asset manifest file.
 * [esbuild-plugin-mxn-copy](https://github.com/ZimNovich/esbuild-plugin-mxn-copy): A esbuild plugin for copying assets into the output directory of your bundle.
 * [esbuild-plugin-node-externals](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-node-externals): esbuild plugin for node externals handing.
+* [esbuild-plugin-output-reset](https://github.com/yamitsushi/esbuild-plugin-output-reset): Minimal plugin to clean output before starting a new build.
 * [esbuild-plugin-path-alias](https://github.com/indooorsman/esbuild-plugin-path-alias): A esbuild plugin to support path alias like `resolve.alias` in webpack config.
 * [esbuild-plugin-pino](https://github.com/davipon/esbuild-plugin-pino): An esbuild plugin to generate extra pino files for bundling
 * [esbuild-plugin-pipe](https://github.com/nativew/esbuild-plugin-pipe): A plugin to pipe the output of esbuild plugins.
