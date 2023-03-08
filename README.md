@@ -2,7 +2,7 @@
 
 ⚠️ *These plugins are from the community and are not officially supported.* ⚠️
 
-This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees are made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
+This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees fare made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
 
 ## Plugin list
 
@@ -161,7 +161,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### Plugins not hosted on npm (e.g. for Deno)
 
-* [esbuild-plugin-bookmarklet](https://github.com/reesericci/esbuild-plugin-bookmarklet): A plugin to generate bookmarklets.
+* [esbuild-plugin-bookmarklet](https://deno.land/x/esbuild_plugin_bookmarklet): A plugin to generate bookmarklets.
 * [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
 * [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
