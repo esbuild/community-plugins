@@ -8,6 +8,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### New file extensions (hosted on npm)
 
+* [@asn.aeb/esbuild-css-modules-plugin](https://github.com/asnaeb/esbuild-css-modules-plugin): A CSS Modules plugin with support for both Client and SSR transformations.
 * [@es-pack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin): A Sass plugin using Dart Sass with type definitions.
 * [@exact-realty/esbuild-plugin-responsive-images](https://github.com/Exact-Realty/esbuild-plugin-responsive-images): A plugin for responsive images using Sharp for automatic resizing and conversion.
 * [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
@@ -16,12 +17,19 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
 * [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
 * [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
+* [esbuild-plugin-class-modules](https://github.com/inqnuam/esbuild-plugin-class-modules): A plugin to compile your stylesheets with Saas, PostCSS and CSS Modules.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
+* [esbuild-plugin-define](https://github.com/webdeveric/esbuild-plugin-define): Flatten an object and pass it to esbuild's `define`.
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
+* [esbuild-plugin-env](https://github.com/yamitsushi/esbuild-plugin-env): Update `process.env` variables. Uses dotenv and pass it to esbuild.
+* [esbuild-plugin-environment](https://github.com/webdeveric/esbuild-plugin-environment): Define `process.env` variables. It accepts an array of keys or an object with keys mapped to their default values.
+* [esbuild-plugin-external-package](https://github.com/yamitsushi/esbuild-plugin-external-package): sets all dependencies to external, alternative when `packages:"external"` is not applicable.
+* [esbuild-plugin-global-api](https://github.com/DarrenDanielDay/esbuild-plugin-global-api): An esbuild plugin for simplifying global API calls.
 * [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
 * [esbuild-plugin-glslify-inline](https://github.com/marcofugaro/esbuild-plugin-glslify-inline): A plugin to process inline GLSL strings with [glslify](https://github.com/glslify/glslify).
 * [esbuild-plugin-glslify](https://github.com/darionco/esbuild-plugin-glslify): A plugin to import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
 * [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
+* [esbuild-plugin-handlebars](https://github.com/inqnuam/esbuild-plugin-handlebars) an esbuild plugin to handle ... handlebars!
 * [esbuild-plugin-hjson](https://github.com/ChildishGiant/esbuild-plugin-hjson) A simple plugin to allow [`*.hjson`](https://hjson.github.io/) files to be imported.
 * [esbuild-plugin-html-modules](https://github.com/whitefusionhq/esbuild-plugin-html-modules) A plugin to load HTML Modules based on [the proposed spec](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/html-modules-explainer.md).
 * [esbuild-plugin-inline-image](https://github.com/natrim/esbuild-plugin-inline-image) A plugin that switches loader for images between file and dataurl depending on size
@@ -58,7 +66,9 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### Other plugins (hosted on npm)
 
+
 * [local-dev-server](https://github.com/lv-saharan/local-dev): a dev server easy to work with esbuild.
+* [@akrc/esbuild-plugin-clean](https://github.com/akarachen/esbuild-plugin-clean): A plugin to clean the output dir.
 * [@anatine/esbuild-decorators](https://github.com/anatine/esbuildnx/tree/main/packages/esbuild-decorators): This is a plugin for esbuild to handle the tsconfig setting `"emitDecoratorMetadata": true` using tsc to transpile `.ts` or `.tsx` files with decorators.
 * [@craftamap/esbuild-plugin-html](https://github.com/craftamap/esbuild-plugin-html) A Plugin to create `*.html`-files from specified entry points.
 * [@datadog/build-plugin](https://github.com/DataDog/build-plugin) A plugin to monitor your build performances.
@@ -67,6 +77,8 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@exact-realty/esbuild-plugin-inline-js](https://github.com/Exact-Realty/esbuild-plugin-inline-js): A plugin for inline scripts with SRI support; runs a separate esbuild process and returns a string for ease of embedding.
 * [@fal-works/esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals): A plugin to replace module imports with global variables.
 * [@linjiajian999/esbuild-plugin-import](https://github.com/linjiajian999/esbuild-plugin-import): A plugin for modular import from ant, lodash, etc., similar to [babel-plugin-import](https://github.com/ant-design/babel-plugin-import).
+* [@sprout2000/esbuild-copy-plugin](https://github.com/sprout2000/esbuild-copy-plugin): A plugin which is a typed and fully tested version of [@nickjj](https://github.com/nickjj)'s [esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files).
+* [@stylify/unplugin](https://github.com/stylify/packages): A plugin for [Stylify CSS](https://stylifycss.com) with which you can use CSS-like selectors to style your website.
 * [@yarnpkg/esbuild-plugin-pnp](https://github.com/yarnpkg/berry/tree/master/packages/esbuild-plugin-pnp#yarnpkgesbuild-plugin-pnp): A plugin adding support for [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp) installs.
 * [altv-esbuild](https://github.com/xxshady/altv-esbuild): Smoother development as well as production of JS/TS server/client scripts on the [alt:V](https://altv.mp) platform.
 * [decky](https://github.com/jarred-sumner/decky): A plugin that makes TypeScript experimental decorators run at compile-time, enabling macros and potentially reducing bundle size
@@ -101,6 +113,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-eslint](https://github.com/robinloeffel/esbuild-plugin-eslint): Lint your esbuild bundles with eslint. 🧐
 * [esbuild-plugin-eslinter](https://github.com/TurtIeSocks/esbuild-plugin-eslinter): A plugin for linting your builds, includes caching and node_module exclusion.
 * [esbuild-plugin-execute](https://github.com/qiweiii/esbuild-plugin-execute): A plugin to create esbuild plugins with executables.
+* [esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions): A plugin to automatically insert file extensions in your built JavaScript files based on the specified target.
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
 * [esbuild-plugin-filesize](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-filesize): esbuild plugin for displaying output file size info.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
@@ -116,18 +129,23 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-manifest](https://github.com/jfortunato/esbuild-plugin-manifest): A plugin to generate a hashed asset manifest file.
 * [esbuild-plugin-mxn-copy](https://github.com/ZimNovich/esbuild-plugin-mxn-copy): A esbuild plugin for copying assets into the output directory of your bundle.
 * [esbuild-plugin-node-externals](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-node-externals): esbuild plugin for node externals handing.
+* [esbuild-plugin-output-reset](https://github.com/yamitsushi/esbuild-plugin-output-reset): Minimal plugin to clean output before starting a new build.
 * [esbuild-plugin-path-alias](https://github.com/indooorsman/esbuild-plugin-path-alias): A esbuild plugin to support path alias like `resolve.alias` in webpack config.
 * [esbuild-plugin-pino](https://github.com/davipon/esbuild-plugin-pino): An esbuild plugin to generate extra pino files for bundling
 * [esbuild-plugin-pipe](https://github.com/nativew/esbuild-plugin-pipe): A plugin to pipe the output of esbuild plugins.
 * [esbuild-plugin-pnp](https://github.com/shiftx/esbuild-plugin-pnp): A plugin to support yarn 2 (berry) with PnP (Plug’n’Play).
+* [esbuild-plugin-polyfill-node](https://github.com/cyco130/esbuild-plugin-polyfill-node): Plugin to polyfill Node.js built-ins geared towards edge environments.
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
 * [esbuild-plugin-progress](https://github.com/kmalakoff/esbuild-plugin-progress): A plugin to add a progress spinner to esbuild.
+* [esbuild-plugin-pug](https://github.com/adamjberg/esbuild-plugin-pug): A plugin to to render pug templates
 * [esbuild-plugin-purgecss](https://github.com/GitHubJiKe/esbuild-plugin-purgecss): A plugin to remove useless css class with purgecss.
+* [esbuild-plugin-raw-css](https://github.com/Debonex/esbuild-plugin-raw-css): A plugin to import css files as minified raw text.
 * [esbuild-plugin-realpath](https://github.com/kmalakoff/esbuild-plugin-realpath): A plugin to resolve the fs.realpath for modules in monorepos targeting the browser and node.
 * [esbuild-plugin-replace-regex](https://github.com/fakundo/esbuild-plugin-replace-regex): Simple plugin for replacing file content.
 * [esbuild-plugin-resolve](https://github.com/markwylde/esbuild-plugin-resolve): Change where a module dependency is resolved/imported from.
 * [esbuild-plugin-run](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-run): esbuild plugin to execute output file after build.
 * [esbuild-plugin-simple-css-modules](https://gitlab.com/hesxenon/esbuild-plugin-simple-css-modules/-/tree/main): A plugin to transform `.module.css` files by prefixing classnames with a unique identifier
+* [esbuild-plugin-sixsixsix-killer](https://github.com/inqnuam/esbuild-plugin-sixsixsix-killer): Remove bloc of code when 'if' statement meets 666 condition
 * [esbuild-plugin-solid-js](https://gitlab.com/hesxenon/esbuild-plugin-solid-js/-/tree/main): A plugin to apply solids jsx transforms with esbuild (without breaking/dropping sourcemaps)
 * [esbuild-plugin-stimulus](https://github.com/zombiezen/esbuild-plugin-stimulus): A plugin to automatically [load Stimulus controllers](https://stimulus.hotwire.dev/handbook/installing) from a folder.
 * [esbuild-plugin-swc](https://github.com/sanyuan0704/esbuild-plugin-swc): A plugin to support swc transform in Esbuild.
@@ -135,6 +153,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-time](https://github.com/DasRed/esbuild-plugin-time): A simple plugin for time measuring of the build process.
 * [esbuild-plugin-transform](https://github.com/sxzz/esbuild-plugin-transform): A plugin to pipe transformation plugins for esbuild.
 * [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform TypeScript files using the official [TypeScript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
+* [esbuild-plugin-umd-wrapper](https://github.com/inqnuam/esbuild-plugin-umd-wrapper): UMD wrapper for esbuild.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-version-injector](https://github.com/favware/esbuild-plugin-version-injector): A plugin to inject your application's version number or today's date into your files.
 * [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
@@ -147,6 +166,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
 * [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
+* [esbuild-plugin-sass-deno](https://deno.land/x/esbuild_plugin_sass_deno@v0.1.0): A Plugin which adds support for SASS/SCSS using `denosass`. 
 
 ## How to use a plugin
 
