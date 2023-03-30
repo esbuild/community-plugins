@@ -35,6 +35,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-inline-image](https://github.com/natrim/esbuild-plugin-inline-image) A plugin that switches loader for images between file and dataurl depending on size
 * [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker): A plugin to create inline [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) by importing `.worker.js` files.
 * [esbuild-plugin-less](https://github.com/iam-medvedev/esbuild-plugin-less): A plugin to transform LESS files to CSS files.
+* [esbuild-plugin-lightningcss-modules](https://github.com/mhsdesign/esbuild-plugin-lightningcss-modules): Yet another (minimal) css modules plugin using parcels rust based lightningcss implementation. (Full support for `composes: mixin from "./mixin.module.css"`)
 * [esbuild-plugin-lit-css](https://github.com/bennypowers/lit-css/tree/main/packages/esbuild-plugin-lit-css): Import CSS files as tagged-template literals
 * [esbuild-plugin-lit](https://github.com/zandaqo/esbuild-plugin-lit): Import and minify static assets (CSS, SVG, HTML, XLIFF) as tagged-template literals using built-in capabilities.
 * [esbuild-plugin-markdown-import](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-markdown-import): Import, bundle, customize markdown files(support markdown2html by `marked`.).
