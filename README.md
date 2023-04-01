@@ -63,6 +63,8 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [esgleam](https://github.com/bwireman/esgleam): A plugin to compile gleam projects with esbuild.
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
+* [esbuild-usemin](https://github.com/oliverkuchies/esbuild-usemin): A plugin to transpile multiple lines of external resources into one line within a view.
+
 
 ### Other plugins (hosted on npm)
 
