@@ -2,7 +2,7 @@
 
 ⚠️ *These plugins are from the community and are not officially supported.* ⚠️
 
-This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees fare made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
+This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees are made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
 
 ## Plugin list
 
@@ -61,11 +61,10 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin) A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to CSS files.
 * [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
+* [esbuild-usemin](https://github.com/oliverkuchies/esbuild-usemin): A plugin to transpile multiple lines of external resources into one line within a view.
 * [esbuild-vue](https://github.com/apeschar/esbuild-vue): A plugin to load and compile Vue 2 single-file components (`*.vue` files).
 * [esgleam](https://github.com/bwireman/esgleam): A plugin to compile gleam projects with esbuild.
 * [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform Sass files to CSS files.
-* [esbuild-usemin](https://github.com/oliverkuchies/esbuild-usemin): A plugin to transpile multiple lines of external resources into one line within a view.
-
 
 ### Other plugins (hosted on npm)
 
@@ -93,7 +92,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-ignore-with-comments-plugin](https://github.com/goldstack/goldstack/tree/master/workspaces/utils/packages/esbuild-ignore-with-comments-plugin#readme): A plugin that allows ignoring specific source files during build by adding the comment `/* esbuild-ignore */`. 
 * [esbuild-inline-sass](https://github.com/ProdigyPXP/esbuild-inline-sass): A plugin that loads SASS/SCSS straight into your JavaScript bundle (A combination of [this inline style loader](https://github.com/hyrious/esbuild-plugin-style) and [this scss loader](https://github.com/glromeo/esbuild-sass-plugin)).
 * [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform TypeScript `compilerOptions.path` at compile-time.
-* [esbuild-plugin-tsconfig-paths](https://github.com/wjfei/esbuild-plugin-tsconfig-paths): Transform `Typescript` `compilerOptions.paths` alias to relative path when compile.
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
 * [esbuild-plugin-assets-manifest](https://github.com/indooorsman/esbuild-plugin-assets-manifest): A plugin to Generate manifest file like assets-webpack-plugin does.
 * [esbuild-plugin-babel-flow](https://github.com/henrhie/esbuild-plugin-babel-flow): A plugin that allows you to strip off Flow annotations from JavaScript code using Babel.
@@ -157,6 +155,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-time](https://github.com/DasRed/esbuild-plugin-time): A simple plugin for time measuring of the build process.
 * [esbuild-plugin-transform](https://github.com/sxzz/esbuild-plugin-transform): A plugin to pipe transformation plugins for esbuild.
 * [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform TypeScript files using the official [TypeScript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
+* [esbuild-plugin-tsconfig-paths](https://github.com/wjfei/esbuild-plugin-tsconfig-paths): Transform `Typescript` `compilerOptions.paths` alias to relative path when compile.
 * [esbuild-plugin-umd-wrapper](https://github.com/inqnuam/esbuild-plugin-umd-wrapper): UMD wrapper for esbuild.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-version-injector](https://github.com/favware/esbuild-plugin-version-injector): A plugin to inject your application's version number or today's date into your files.
