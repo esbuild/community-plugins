@@ -2,7 +2,7 @@
 
 ⚠️ *These plugins are from the community and are not officially supported.* ⚠️
 
-This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees are made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
+This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees fare made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
 
 ## Plugin list
 
@@ -98,6 +98,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-assets-manifest](https://github.com/indooorsman/esbuild-plugin-assets-manifest): A plugin to Generate manifest file like assets-webpack-plugin does.
 * [esbuild-plugin-babel-flow](https://github.com/henrhie/esbuild-plugin-babel-flow): A plugin that allows you to strip off Flow annotations from JavaScript code using Babel.
 * [esbuild-plugin-babel](https://github.com/nativew/esbuild-plugin-babel): A plugin to compile files with Babel.
+* [esbuild-plugin-bookmarklet](https://github.com/reesericci/esbuild-plugin-bookmarklet): A plugin to generate bookmarklets.
 * [esbuild-plugin-brode](https://github.com/geut/brode/tree/main/packages/esbuild-plugin-brode): A plugin to add node polyfills core modules for the web.
 * [esbuild-plugin-browserify-adapter](https://github.com/m90/esbuild-plugin-browserify-adapter): An adapter to use existing Browserify transforms as esbuild plugins.
 * [esbuild-plugin-browserslist](https://github.com/nihalgonsalves/esbuild-plugin-browserslist): Configure esbuild targets based on a browserslist query.
@@ -166,6 +167,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 
 ### Plugins not hosted on npm (e.g. for Deno)
 
+* [esbuild-plugin-bookmarklet](https://deno.land/x/esbuild_plugin_bookmarklet): A plugin to generate bookmarklets.
 * [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
 * [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
