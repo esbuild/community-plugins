@@ -91,6 +91,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server): A plugin allows you to start a local server with hot reloading.
 * [esbuild-gas-plugin](https://github.com/mahaker/esbuild-gas-plugin): A plugin that generate codes for Google Apps Script.
 * [esbuild-ignore-with-comments-plugin](https://github.com/goldstack/goldstack/tree/master/workspaces/utils/packages/esbuild-ignore-with-comments-plugin#readme): A plugin that allows ignoring specific source files during build by adding the comment `/* esbuild-ignore */`. 
+* [esbuild-inline-sass](https://github.com/ProdigyPXP/esbuild-inline-sass): A plugin that loads SASS/SCSS straight into your JavaScript bundle (A combination of [this inline style loader](https://github.com/hyrious/esbuild-plugin-style) and [this scss loader](https://github.com/glromeo/esbuild-sass-plugin)).
 * [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform TypeScript `compilerOptions.path` at compile-time.
 * [esbuild-plugin-tsconfig-paths](https://github.com/wjfei/esbuild-plugin-tsconfig-paths): Transform `Typescript` `compilerOptions.paths` alias to relative path when compile.
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
