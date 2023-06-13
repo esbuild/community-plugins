@@ -57,6 +57,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
 * [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
 * [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another Sass to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
+* [esbuild-sass-plugin-async](https://github.com/wfleming/esbuild-sass-plugin/): Fork of esbuild-sass-plugin using sass-embedded & async rendering: the advantage is potentially much faster compilation if you have many sass entrypoints, the tradeoff is sass-embedded is not compatible with musl libc distributions.
 * [esbuild-squoosh](https://github.com/bognarlaszlo/esbuild-squoosh): A plugin for compressing/optimising images using libSquoosh
 * [esbuild-style-plugin](https://github.com/g45t345rt/esbuild-style-plugin) A PostCSS plugin that support multiple preprocessors like SASS, STYLUS & LESS. Works with css modules and server side rendering / SSR.
 * [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to CSS files.
