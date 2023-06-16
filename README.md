@@ -164,6 +164,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
 * [esbuild-plugin-deepkit](https://github.com/gjsify/gjsify/tree/main/packages/infra/esbuild-plugin-deepkit#readme): A plugin for the transformer of [@deepkit/type](https://deepkit.io/library/type) for TypeScript Runtime types.
+* [esbuild-plugin-transform-ext](https://github.com/gjsify/gjsify/tree/main/packages/infra/esbuild-plugin-transform-ext#readme): A plugin to transform import file extensions, e.g. `.ts` to `.js`.
 
 ### Plugins not hosted on npm (e.g. for Deno)
 
