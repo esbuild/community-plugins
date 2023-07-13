@@ -47,6 +47,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-purescript](https://github.com/Mateiadrielrafael/esbuild-plugin-purescript): Adds support for importing [PureScript](https://www.purescript.org/) code.
 * [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform Sass files to CSS files
 * [esbuild-plugin-spglsl](https://github.com/rottencandy/esbuild-plugin-spglsl): A plugin that adds support for GLSL file imports using [spglsl](https://github.com/SalvatorePreviti/spglsl).
+* [esbuild-plugin-styled-components](https://github.com/appzic/esbuild-plugin-styled-components): A plugin to support styled-components
 * [esbuild-plugin-svg](https://github.com/nativew/esbuild-plugin-svg): A plugin to import SVG files.
 * [esbuild-plugin-svgj](https://github.com/Jarred-Sumner/svgj): Import `*.svg` files as React components using svgj (~40x faster than svgr)
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
