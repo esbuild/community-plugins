@@ -163,7 +163,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-umd-wrapper](https://github.com/inqnuam/esbuild-plugin-umd-wrapper): UMD wrapper for esbuild.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-version-injector](https://github.com/favware/esbuild-plugin-version-injector): A plugin to inject your application's version number or today's date into your files.
-* [esbuild-plugin-webpack-bridge](https://github.com/igoradamenko/esbuild-plugin-webpack-bridge): A plugin that allows to use webpack loaders.
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
