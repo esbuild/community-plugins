@@ -167,7 +167,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
 
-### Plugins not hosted on npm (e.g. for Deno)
+### Plugins for Deno
 
 * [esbuild-plugin-bookmarklet](https://deno.land/x/esbuild_plugin_bookmarklet): A plugin to generate bookmarklets.
 * [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
