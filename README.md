@@ -120,7 +120,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-execute](https://github.com/qiweiii/esbuild-plugin-execute): A plugin to create esbuild plugins with executables.
 * [esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions): A plugin to automatically insert file extensions in your built JavaScript files based on the specified target.
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
-* [esbuild-plugin-filesize](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-filesize): esbuild plugin for displaying output file size info.
 * [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
 * [esbuild-plugin-glob-import](https://github.com/whaaaley/esbuild-plugin-glob-import): Use globs to import multiple files.
 * [esbuild-plugin-glob](https://github.com/waspeer/esbuild-plugin-glob): Use glob patterns as `entryPoints`
