@@ -11,6 +11,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@asn.aeb/esbuild-css-modules-plugin](https://github.com/asnaeb/esbuild-css-modules-plugin): A CSS Modules plugin with support for both Client and SSR transformations.
 * [@es-pack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin): A Sass plugin using Dart Sass with type definitions.
 * [@exact-realty/esbuild-plugin-responsive-images](https://github.com/Exact-Realty/esbuild-plugin-responsive-images): A plugin for responsive images using Sharp for automatic resizing and conversion.
+* [@exact-realty/esbuild-plugin-closure-compiler](https://github.com/Exact-Realty/esbuild-plugin-closure-compiler): A plugin for post-processsing esbuild output with Google Closure compiler. Useful for additional advanced transformations (esp. while using the `ADVANCED` compilation mode). Note: this will slow down your compilation. Source-maps are an upcoming feature.
 * [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
 * [esbuild-coffeescript](https://github.com/johnie/esbuild-coffeescript): A plugin to compile CoffeeScript files (`*.coffee` & `*.litcoffee` files).
 * [esbuild-css-modules-plugin](https://github.com/indooorsman/esbuild-css-modules-plugin#readme): A plugin to bundle `xxx.modules.css` or `xxx.module.css` into `.js(x)/.ts(x)`. Can build with both `bundle: true` & `bundle: false`.
