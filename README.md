@@ -93,6 +93,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-gas-plugin](https://github.com/mahaker/esbuild-gas-plugin): A plugin that generate codes for Google Apps Script.
 * [esbuild-ignore-with-comments-plugin](https://github.com/goldstack/goldstack/tree/master/workspaces/utils/packages/esbuild-ignore-with-comments-plugin#readme): A plugin that allows ignoring specific source files during build by adding the comment `/* esbuild-ignore */`. 
 * [esbuild-inline-sass](https://github.com/ProdigyPXP/esbuild-inline-sass): A plugin that loads SASS/SCSS straight into your JavaScript bundle (A combination of [this inline style loader](https://github.com/hyrious/esbuild-plugin-style) and [this scss loader](https://github.com/glromeo/esbuild-sass-plugin)).
+* [esbuild-metadata-report](https://github.com/cenfun/esbuild-metadata-report): A plugin that generate HTML report for esbuild metadata.
 * [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform TypeScript `compilerOptions.path` at compile-time.
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
 * [esbuild-plugin-assets-manifest](https://github.com/indooorsman/esbuild-plugin-assets-manifest): A plugin to Generate manifest file like assets-webpack-plugin does.
@@ -166,7 +167,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
-* [esbuild-metadata-report](https://github.com/cenfun/esbuild-metadata-report): A plugin that generate HTML report for esbuild metadata.
 
 ### Plugins for Deno
 
