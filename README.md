@@ -78,6 +78,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@es-exec/esbuild-plugin-start](https://github.com/tim117/es-exec/tree/main/plugins/es-start): A plugin for running a script after your build completes, similar to [nodemon](https://github.com/remy/nodemon).
 * [@exact-realty/esbuild-plugin-inline-js](https://github.com/Exact-Realty/esbuild-plugin-inline-js): A plugin for inline scripts with SRI support; runs a separate esbuild process and returns a string for ease of embedding.
 * [@fal-works/esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals): A plugin to replace module imports with global variables.
+* [@liber-ufpe/esbuild-plugin-compress](https://github.com/Liber-UFPE/esbuild-plugin-compress): esbuild plugin to compress output using gzip, brotli, and deflate.
 * [@linjiajian999/esbuild-plugin-import](https://github.com/linjiajian999/esbuild-plugin-import): A plugin for modular import from ant, lodash, etc., similar to [babel-plugin-import](https://github.com/ant-design/babel-plugin-import).
 * [@sprout2000/esbuild-copy-plugin](https://github.com/sprout2000/esbuild-copy-plugin): A plugin which is a typed and fully tested version of [@nickjj](https://github.com/nickjj)'s [esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files).
 * [@stylify/unplugin](https://github.com/stylify/packages): A plugin for [Stylify CSS](https://stylifycss.com) with which you can use CSS-like selectors to style your website.
