@@ -9,6 +9,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 ### New file extensions (hosted on npm)
 
 * [@asn.aeb/esbuild-css-modules-plugin](https://github.com/asnaeb/esbuild-css-modules-plugin): A CSS Modules plugin with support for both Client and SSR transformations.
+* [@digitalmaas/esbuild-plugin-ejs](https://github.com/digitalmaas/esbuild-plugin-ejs): Adds support for [Embedded JavaScript Templates](https://ejs.co/) (.ejs) imports.
 * [@es-pack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin): A Sass plugin using Dart Sass with type definitions.
 * [@exact-realty/esbuild-plugin-responsive-images](https://github.com/Exact-Realty/esbuild-plugin-responsive-images): A plugin for responsive images using Sharp for automatic resizing and conversion.
 * [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
