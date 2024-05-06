@@ -107,6 +107,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-clear](https://github.com/DasRed/esbuild-plugin-clear): A plugin to clear a directory.
 * [esbuild-plugin-compress](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-compress): esbuild plugin for output compression (gzip/brotli).
 * [esbuild-plugin-copy-file](https://github.com/ozanozbek/esbuild-plugin-copy-file): A plugin for asynchronously copying files in parallel before or after bundling.
+* [esbuild-plugin-prunable](https://github.com/vgihan/esbuild-plugin-prunable): A plugin to extract unused files under a specific directory.
 * [esbuild-plugin-copy-watch](https://github.com/tinchoz49/esbuild-plugin-copy-watch): A plugin to watch and copy static files.
 * [esbuild-plugin-copy](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-copy): esbuild plugin for assets copy.
 * [esbuild-plugin-d-ts-path-alias](https://github.com/ArtemKlyuev/esbuild-plugin-d-ts-path-alias): esbuild plugin for compiling typescript declarations along with path aliases transformation.
