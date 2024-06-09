@@ -38,7 +38,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-lightningcss-modules](https://github.com/mhsdesign/esbuild-plugin-lightningcss-modules): Yet another (minimal) css modules plugin using parcels rust based lightningcss implementation. (Full support for `composes: mixin from "./mixin.module.css"`)
 * [esbuild-plugin-lit-css](https://github.com/bennypowers/lit-css/tree/main/packages/esbuild-plugin-lit-css): Import CSS files as tagged-template literals
 * [esbuild-plugin-lit](https://github.com/zandaqo/esbuild-plugin-lit): Import and minify static assets (CSS, SVG, HTML, XLIFF) as tagged-template literals using built-in capabilities.
-* [esbuild-plugin-lit-minify-html](https://github.com/chapery/esbuild-plugin-lit-minify-html): minify tagged-template literals of the lit `html` method, it remove white space characters.
 * [esbuild-plugin-markdown-import](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-markdown-import): Import, bundle, customize markdown files(support markdown2html by `marked`.).
 * [esbuild-plugin-markdown](https://github.com/martonlederer/esbuild-plugin-markdown): Import & bundle markdown files
 * [esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss): A plugin to use PostCSS.
@@ -131,6 +130,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-imagemin](https://github.com/omyasn/esbuild-plugin-imagemin): A plugin to minimize images using imagemin.
 * [esbuild-plugin-import-glob](https://github.com/thomaschaaf/esbuild-plugin-import-glob): A plugin to import multiple files using the glob syntax. Similar to `require.context` from webpack.
 * [esbuild-plugin-inline-import](https://github.com/claviska/esbuild-plugin-inline-import): A plugin that inlines and optionally transforms imports with a configurable prefix.
+* [esbuild-plugin-lit-minify-html](https://github.com/chapery/esbuild-plugin-lit-minify-html): minify tagged-template literals of the lit `html` method, it remove white space characters.
 * [esbuild-plugin-lodash](https://github.com/josteph/esbuild-plugin-lodash): A plugin that helps tree-shake non-es lodash imports, similar to how [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) works.
 * [esbuild-plugin-manifest](https://github.com/jfortunato/esbuild-plugin-manifest): A plugin to generate a hashed asset manifest file.
 * [esbuild-plugin-mxn-copy](https://github.com/ZimNovich/esbuild-plugin-mxn-copy): A esbuild plugin for copying assets into the output directory of your bundle.
