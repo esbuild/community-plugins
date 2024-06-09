@@ -92,7 +92,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-cross-browser-css](https://github.com/plxity/esbuild-cross-browser-css): A plugin to make CSS compatible for all the different browsers.
 * [esbuild-dev-server](https://github.com/Falldot/esbuild-dev-server): A plugin allows you to start a local server with hot reloading.
 * [esbuild-gas-plugin](https://github.com/mahaker/esbuild-gas-plugin): A plugin that generate codes for Google Apps Script.
-* [esbuild-ignore-with-comments-plugin](https://github.com/goldstack/goldstack/tree/master/workspaces/utils/packages/esbuild-ignore-with-comments-plugin#readme): A plugin that allows ignoring specific source files during build by adding the comment `/* esbuild-ignore */`. 
+* [esbuild-ignore-with-comments-plugin](https://github.com/goldstack/goldstack/tree/master/workspaces/utils/packages/esbuild-ignore-with-comments-plugin#readme): A plugin that allows ignoring specific source files during build by adding the comment `/* esbuild-ignore */`.
 * [esbuild-inline-sass](https://github.com/ProdigyPXP/esbuild-inline-sass): A plugin that loads SASS/SCSS straight into your JavaScript bundle (A combination of [this inline style loader](https://github.com/hyrious/esbuild-plugin-style) and [this scss loader](https://github.com/glromeo/esbuild-sass-plugin)).
 * [esbuild-plugin-alias-path](https://github.com/LinbuduLab/nx-plugins/tree/main/packages/esbuild-plugin-alias-path): A plugin to transform TypeScript `compilerOptions.path` at compile-time.
 * [esbuild-plugin-alias](https://github.com/igoradamenko/esbuild-plugin-alias): A plugin to resolve dynamic path aliases.
@@ -174,7 +174,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-env](https://deno.land/x/esbuild_plugin_env): A plugin that exports the current environment as a module.
 * [esbuild-plugin-eval](https://deno.land/x/esbuild_plugin_eval): A plugin that evaluates a module before importing it.
 * [esbuild-plugin-http-fetch](https://deno.land/x/esbuild_plugin_http_fetch): A plugin that resolves http(s) modules, for use with browsers and Deno.
-* [esbuild-plugin-sass-deno](https://deno.land/x/esbuild_plugin_sass_deno@v0.1.0): A Plugin which adds support for SASS/SCSS using `denosass`. 
+* [esbuild-plugin-sass-deno](https://deno.land/x/esbuild_plugin_sass_deno@v0.1.0): A Plugin which adds support for SASS/SCSS using `denosass`.
 
 ## How to use a plugin
 
