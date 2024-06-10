@@ -13,6 +13,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@es-pack/esbuild-sass-plugin](https://github.com/Csszabi98/es-pack/tree/main/plugins/esbuild-sass-plugin): A Sass plugin using Dart Sass with type definitions.
 * [@exact-realty/esbuild-plugin-responsive-images](https://github.com/Exact-Realty/esbuild-plugin-responsive-images): A plugin for responsive images using Sharp for automatic resizing and conversion.
 * [@offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema): Compile and pack JSON schema definitions on import.
+* [@ymulenll/esbuild-plugin-pug](https://github.com/ymulenll/esbuild-plugin-pug): A plugin to transform pug templates files into pug compiled functions
 * [esbuild-coffeescript](https://github.com/johnie/esbuild-coffeescript): A plugin to compile CoffeeScript files (`*.coffee` & `*.litcoffee` files).
 * [esbuild-css-modules-plugin](https://github.com/indooorsman/esbuild-css-modules-plugin#readme): A plugin to bundle `xxx.modules.css` or `xxx.module.css` into `.js(x)/.ts(x)`. Can build with both `bundle: true` & `bundle: false`.
 * [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
@@ -45,6 +46,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-postcss2](https://github.com/martonlederer/esbuild-plugin-postcss2): A plugin to use preprocessors and CSS modules with PostCSS.
 * [esbuild-plugin-prismjs](https://github.com/activeguild/esbuild-plugin-prismjs): A plugin bundles PrismJs language and plugins.
 * [esbuild-plugin-properties](https://github.com/pd4d10/esbuild-plugin-properties): A plugin to load `*.properties` files.
+* [esbuild-plugin-pug](https://github.com/adamjberg/esbuild-plugin-pug): A plugin to to render pug templates
 * [esbuild-plugin-purescript](https://github.com/Mateiadrielrafael/esbuild-plugin-purescript): Adds support for importing [PureScript](https://www.purescript.org/) code.
 * [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform Sass files to CSS files
 * [esbuild-plugin-spglsl](https://github.com/rottencandy/esbuild-plugin-spglsl): A plugin that adds support for GLSL file imports using [spglsl](https://github.com/SalvatorePreviti/spglsl).
@@ -148,8 +150,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-polyfill-node](https://github.com/cyco130/esbuild-plugin-polyfill-node): Plugin to polyfill Node.js built-ins geared towards edge environments.
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
 * [esbuild-plugin-progress](https://github.com/kmalakoff/esbuild-plugin-progress): A plugin to add a progress spinner to esbuild.
-* [esbuild-plugin-pug](https://github.com/adamjberg/esbuild-plugin-pug): A plugin to to render pug templates
-* [@ymulenll/esbuild-plugin-pug](https://github.com/ymulenll/esbuild-plugin-pug): A plugin to transform pug templates files into pug compiled functions
 * [esbuild-plugin-purgecss](https://github.com/GitHubJiKe/esbuild-plugin-purgecss): A plugin to remove useless css class with purgecss.
 * [esbuild-plugin-raw-css](https://github.com/Debonex/esbuild-plugin-raw-css): A plugin to import css files as minified raw text.
 * [esbuild-plugin-realpath](https://github.com/kmalakoff/esbuild-plugin-realpath): A plugin to resolve the fs.realpath for modules in monorepos targeting the browser and node.
