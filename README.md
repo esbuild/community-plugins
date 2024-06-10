@@ -50,7 +50,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-purescript](https://github.com/Mateiadrielrafael/esbuild-plugin-purescript): Adds support for importing [PureScript](https://www.purescript.org/) code.
 * [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform Sass files to CSS files
 * [esbuild-plugin-spglsl](https://github.com/rottencandy/esbuild-plugin-spglsl): A plugin that adds support for GLSL file imports using [spglsl](https://github.com/SalvatorePreviti/spglsl).
-* [esbuild-plugin-styled-components](https://github.com/appzic/esbuild-plugin-styled-components): A plugin to support styled-components
 * [esbuild-plugin-svg](https://github.com/nativew/esbuild-plugin-svg): A plugin to import SVG files.
 * [esbuild-plugin-svgj](https://github.com/Jarred-Sumner/svgj): Import `*.svg` files as React components using svgj (~40x faster than svgr)
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
@@ -161,6 +160,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-sixsixsix-killer](https://github.com/inqnuam/esbuild-plugin-sixsixsix-killer): Remove bloc of code when 'if' statement meets 666 condition
 * [esbuild-plugin-solid-js](https://gitlab.com/hesxenon/esbuild-plugin-solid-js/-/tree/main): A plugin to apply solids jsx transforms with esbuild (without breaking/dropping sourcemaps)
 * [esbuild-plugin-stimulus](https://github.com/zombiezen/esbuild-plugin-stimulus): A plugin to automatically [load Stimulus controllers](https://stimulus.hotwire.dev/handbook/installing) from a folder.
+* [esbuild-plugin-styled-components](https://github.com/appzic/esbuild-plugin-styled-components): A plugin to support styled-components
 * [esbuild-plugin-summary](https://github.com/devm33/esbuild-plugin-summary): A plugin to output the CLI build summary, time and filesize, when using the API.
 * [esbuild-plugin-swc-minify](https://github.com/D1g1talEntr0py/esbuild-plugin-swc-minify): plugin to minify js(x) files using SWC.
 * [esbuild-plugin-swc](https://github.com/sanyuan0704/esbuild-plugin-swc): A plugin to support swc transform in Esbuild.
