@@ -149,6 +149,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
 * [esbuild-plugin-progress](https://github.com/kmalakoff/esbuild-plugin-progress): A plugin to add a progress spinner to esbuild.
 * [esbuild-plugin-pug](https://github.com/adamjberg/esbuild-plugin-pug): A plugin to to render pug templates
+* [@ymulenll/esbuild-plugin-pug](https://github.com/ymulenll/esbuild-plugin-pug): A plugin to transform pug templates files into pug compiled functions
 * [esbuild-plugin-purgecss](https://github.com/GitHubJiKe/esbuild-plugin-purgecss): A plugin to remove useless css class with purgecss.
 * [esbuild-plugin-raw-css](https://github.com/Debonex/esbuild-plugin-raw-css): A plugin to import css files as minified raw text.
 * [esbuild-plugin-realpath](https://github.com/kmalakoff/esbuild-plugin-realpath): A plugin to resolve the fs.realpath for modules in monorepos targeting the browser and node.
