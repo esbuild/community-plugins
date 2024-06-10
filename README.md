@@ -52,7 +52,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
 * [esbuild-plugin-toml](https://github.com/SilentVoid13/esbuild-plugin-toml): A plugin to load `*.toml` files.
 * [esbuild-plugin-type-schema](https://github.com/mooooooi/esbuild-plugin-type-schema): A plugin to generate type schema using decorators in your custom way, Like `type-graphql`.
-* [esbuild-plugin-unused-modules](https://github.com/tridge-hq/esbuild-plugin-unused-modules): A plugin to extract unused module files under a specific directory.
 * [esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next): A plugin to transform Vue 3.x SFC (`*.vue` files).
 * [esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat): A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
@@ -163,6 +162,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-tsc](https://github.com/thomaschaaf/esbuild-plugin-tsc): A plugin to transform TypeScript files using the official [TypeScript compiler](https://github.com/microsoft/TypeScript). Allows usage of `emitDecoratorMetadata`.
 * [esbuild-plugin-tsconfig-paths](https://github.com/wjfei/esbuild-plugin-tsconfig-paths): Transform `Typescript` `compilerOptions.paths` alias to relative path when compile.
 * [esbuild-plugin-umd-wrapper](https://github.com/inqnuam/esbuild-plugin-umd-wrapper): UMD wrapper for esbuild.
+* [esbuild-plugin-unused-modules](https://github.com/tridge-hq/esbuild-plugin-unused-modules): A plugin to extract unused module files under a specific directory.
 * [esbuild-plugin-velcro](https://github.com/ggoodman/esbuild-plugin-velcro): A plugin to load npm (bare module) dependencies from the cloud and requiring no previous NPM install.
 * [esbuild-plugin-version-injector](https://github.com/favware/esbuild-plugin-version-injector): A plugin to inject your application's version number or today's date into your files.
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
