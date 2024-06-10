@@ -160,6 +160,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-solid-js](https://gitlab.com/hesxenon/esbuild-plugin-solid-js/-/tree/main): A plugin to apply solids jsx transforms with esbuild (without breaking/dropping sourcemaps)
 * [esbuild-plugin-stimulus](https://github.com/zombiezen/esbuild-plugin-stimulus): A plugin to automatically [load Stimulus controllers](https://stimulus.hotwire.dev/handbook/installing) from a folder.
 * [esbuild-plugin-swc](https://github.com/sanyuan0704/esbuild-plugin-swc): A plugin to support swc transform in Esbuild.
+* [esbuild-plugin-swc-minify](https://github.com/D1g1talEntr0py/esbuild-plugin-swc-minify): plugin to minify js(x) files using SWC.
 * [esbuild-plugin-text-replace](https://github.com/aheissenberger/esbuild-plugin-text-replace): Replace content before bundling with support for Filefilter, Namespace, Regex and Functions.
 * [esbuild-plugin-time](https://github.com/DasRed/esbuild-plugin-time): A simple plugin for time measuring of the build process.
 * [esbuild-plugin-transform-ext](https://github.com/gjsify/gjsify/tree/main/packages/infra/esbuild-plugin-transform-ext#readme): A plugin to transform import file extensions, e.g. `.ts` to `.js`.
