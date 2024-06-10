@@ -124,6 +124,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-drop](https://github.com/pirxpilot/esbuild-plugin-drop): A plugin to remove `assert`, `debug`, etc.
 * [esbuild-plugin-eslint](https://github.com/robinloeffel/esbuild-plugin-eslint): Lint your esbuild bundles with eslint. 🧐
 * [esbuild-plugin-eslinter](https://github.com/TurtIeSocks/esbuild-plugin-eslinter): A plugin for linting your builds, includes caching and node_module exclusion.
+* [esbuild-plugin-eval](https://github.com/vpctorr/esbuild-plugin-eval): Optimize runtime execution and bundle size by pre-evaluating some modules before they are imported.
 * [esbuild-plugin-execute](https://github.com/qiweiii/esbuild-plugin-execute): A plugin to create esbuild plugins with executables.
 * [esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions): A plugin to automatically insert file extensions in your built JavaScript files based on the specified target.
 * [esbuild-plugin-filelastmodified](https://github.com/g45t345rt/esbuild-plugin-filelastmodified): A plugin to replace `__fileLastModified__` with the actual time the file has been modified.
