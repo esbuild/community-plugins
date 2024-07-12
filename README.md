@@ -181,6 +181,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
 * [react-native-esbuild](https://github.com/oblador/react-native-esbuild): Bundler and dev server for react-native using esbuild.
+* [esbuild-plugin-preserve-directives](https://github.com/Seojunhwan/esbuild-plugin-preserve-directives): A plugin that preserves directives like 'use client' in specified chunks, maintaining them where originally placed, unlike esbuild's banner API which adds to all files.
 
 ### Plugins for Deno
 
