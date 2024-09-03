@@ -79,6 +79,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@datadog/build-plugin](https://github.com/DataDog/build-plugin) A plugin to monitor your build performances.
 * [@es-exec/esbuild-plugin-serve](https://github.com/tim117/es-exec/tree/main/plugins/es-serve): A plugin for running your build output in a child process after the project build completes.
 * [@es-exec/esbuild-plugin-start](https://github.com/tim117/es-exec/tree/main/plugins/es-start): A plugin for running a script after your build completes, similar to [nodemon](https://github.com/remy/nodemon).
+* [@espcom/esbuild-plugin-webpack-analyzer](https://github.com/esbuild-plugins-community/esbuild-plugin-webpack-analyzer): Webpack Bundle Analyzer integration for esbuild.
 * [@exact-realty/esbuild-plugin-closure-compiler](https://github.com/Exact-Realty/esbuild-plugin-closure-compiler): A plugin for post-processsing esbuild output with Google Closure compiler. Useful for additional advanced transformations (esp. while using the `ADVANCED` compilation mode). Note: this will slow down your compilation. Source-maps are an upcoming feature.
 * [@exact-realty/esbuild-plugin-inline-js](https://github.com/Exact-Realty/esbuild-plugin-inline-js): A plugin for inline scripts with SRI support; runs a separate esbuild process and returns a string for ease of embedding.
 * [@fal-works/esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals): A plugin to replace module imports with global variables.
