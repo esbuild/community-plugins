@@ -21,6 +21,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
 * [esbuild-plugin-class-modules](https://github.com/inqnuam/esbuild-plugin-class-modules): A plugin to compile your stylesheets with Saas, PostCSS and CSS Modules.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
+* [esbuild-plugin-cp](https://github.com/Kwizach/esbuild-plugin-cp): A plugin for assets copy. A fork from linbudu599's [esbuild-plugin-copy](https://github.com/LinbuduLab/esbuild-plugins/tree/master/packages/esbuild-plugin-copy#readme), watch has been removed. exclude has been added.
 * [esbuild-plugin-define](https://github.com/webdeveric/esbuild-plugin-define): Flatten an object and pass it to esbuild's `define`.
 * [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm): A plugin to compile an elm project with esbuild.
 * [esbuild-plugin-env](https://github.com/yamitsushi/esbuild-plugin-env): Update `process.env` variables. Uses dotenv and pass it to esbuild.
