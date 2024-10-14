@@ -183,6 +183,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [react-native-esbuild](https://github.com/oblador/react-native-esbuild): Bundler and dev server for react-native using esbuild.
 * [@olton/esbuild-plugin-progress](https://github.com/olton/esbuild-plugin-progress): A plugin for esbuild that shows a progress spinner.
 * [@olton/esbuild-plugin-autoprefixer](https://github.com/olton/esbuild-plugin-autoprefixer): A CSS autoprefixer plugin for esbuild.
+* [@olton/esbuild-plugin-unlink](https://github.com/olton/esbuild-plugin-unlink): Esbuild plugin for unlink files after build.
 
 ### Plugins for Deno
 
