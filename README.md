@@ -54,6 +54,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-svg](https://github.com/nativew/esbuild-plugin-svg): A plugin to import SVG files.
 * [esbuild-plugin-svgj](https://github.com/Jarred-Sumner/svgj): Import `*.svg` files as React components using svgj (~40x faster than svgr)
 * [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
+* [esbuild-plugin-swagger-spec-parser](https://github.com/AlexGrabovaj/esbuild-plugin-swagger-spec-parser): A plugin to parse and import swagger specifications.
 * [esbuild-plugin-toml](https://github.com/SilentVoid13/esbuild-plugin-toml): A plugin to load `*.toml` files.
 * [esbuild-plugin-type-schema](https://github.com/mooooooi/esbuild-plugin-type-schema): A plugin to generate type schema using decorators in your custom way, Like `type-graphql`.
 * [esbuild-plugin-vue-next](https://github.com/Bigfish8/esbuild-plugin-vue-next): A plugin to transform Vue 3.x SFC (`*.vue` files).
