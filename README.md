@@ -61,7 +61,6 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat): A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
 * [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
-* [esbuild-postcss-inline-styles](https://github.com/antonyevchik/esbuild-postcss-inline-styles): A PostCSS plugin with support for injecting CSS styles into the JS bundle file.
 * [esbuild-sass-plugin-async](https://github.com/wfleming/esbuild-sass-plugin/): Fork of esbuild-sass-plugin using sass-embedded & async rendering: the advantage is potentially much faster compilation if you have many sass entrypoints, the tradeoff is sass-embedded is not compatible with musl libc distributions.
 * [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another Sass to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
 * [esbuild-squoosh](https://github.com/bognarlaszlo/esbuild-squoosh): A plugin for compressing/optimising images using libSquoosh
@@ -90,6 +89,9 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [@liber-ufpe/esbuild-plugin-compress](https://github.com/Liber-UFPE/esbuild-plugin-compress): esbuild plugin to compress output using gzip, brotli, and deflate.
 * [@liber-ufpe/esbuild-plugin-sharp](https://github.com/Liber-UFPE/esbuild-plugin-sharp): esbuild plugin that creates webp and avif versions (or any other format supported by [sharp](https://github.com/lovell/sharp)) for your images.
 * [@linjiajian999/esbuild-plugin-import](https://github.com/linjiajian999/esbuild-plugin-import): A plugin for modular import from ant, lodash, etc., similar to [babel-plugin-import](https://github.com/ant-design/babel-plugin-import).
+* [@olton/esbuild-plugin-autoprefixer](https://github.com/olton/esbuild-plugin-autoprefixer): A CSS autoprefixer plugin for esbuild.
+* [@olton/esbuild-plugin-progress](https://github.com/olton/esbuild-plugin-progress): A plugin for esbuild that shows a progress spinner.
+* [@olton/esbuild-plugin-unlink](https://github.com/olton/esbuild-plugin-unlink): Esbuild plugin for unlink files after build.
 * [@sprout2000/esbuild-copy-plugin](https://github.com/sprout2000/esbuild-copy-plugin): A plugin which is a typed and fully tested version of [@nickjj](https://github.com/nickjj)'s [esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files).
 * [@stylify/unplugin](https://github.com/stylify/packages): A plugin for [Stylify CSS](https://stylifycss.com) with which you can use CSS-like selectors to style your website.
 * [@yarnpkg/esbuild-plugin-pnp](https://github.com/yarnpkg/berry/tree/master/packages/esbuild-plugin-pnp#yarnpkgesbuild-plugin-pnp): A plugin adding support for [Yarn Plug'n'Play](https://yarnpkg.com/features/pnp) installs.
@@ -97,8 +99,8 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [decky](https://github.com/jarred-sumner/decky): A plugin that makes TypeScript experimental decorators run at compile-time, enabling macros and potentially reducing bundle size
 * [esbuild-cf-functions-plugin](https://github.com/BeeeQueue/esbuild-cf-functions-plugin): A plugin for building code [compatible](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/functions-javascript-runtime-features.html) with [CloudFront Functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/functions-javascript-runtime-features.html)
 * [esbuild-compress](https://github.com/polyipseity/esbuild-compress): Compress embedded data, which will be decompressed at runtime, to reduce bundle size.
-* [esbuild-copy-files](https://github.com/tiavina-mika/esbuild-copy-files): A plugin that copies some or all files and folders from a source to a destination directories
 * [esbuild-copy-files-plugin](https://github.com/whatdoyouseedoc/esbuild-copy-files-plugin/): Simple plugin that helps to copy files and folders across the application
+* [esbuild-copy-files](https://github.com/tiavina-mika/esbuild-copy-files): A plugin that copies some or all files and folders from a source to a destination directories
 * [esbuild-copy-plugin](https://github.com/DasRed/esbuild-plugin-copy): A plugin to copy some files from one destination to another
 * [esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files): An esbuild plugin to efficiently copy static files from a source directory to a destination directory
 * [esbuild-cross-browser-css](https://github.com/plxity/esbuild-cross-browser-css): A plugin to make CSS compatible for all the different browsers.
@@ -159,6 +161,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-pnp](https://github.com/shiftx/esbuild-plugin-pnp): A plugin to support yarn 2 (berry) with PnP (Plug’n’Play).
 * [esbuild-plugin-polyfill-node](https://github.com/cyco130/esbuild-plugin-polyfill-node): Plugin to polyfill Node.js built-ins geared towards edge environments.
 * [esbuild-plugin-postcss-literal](https://github.com/nativew/esbuild-plugin-postcss-literal): A plugin to transform tagged template literals with PostCSS.
+* [esbuild-plugin-preserve-directives](https://github.com/Seojunhwan/esbuild-plugin-preserve-directives): A plugin that preserves directives like 'use client' in specified chunks, maintaining them where originally placed, unlike esbuild's banner API which adds to all files.
 * [esbuild-plugin-progress](https://github.com/kmalakoff/esbuild-plugin-progress): A plugin to add a progress spinner to esbuild.
 * [esbuild-plugin-purgecss](https://github.com/GitHubJiKe/esbuild-plugin-purgecss): A plugin to remove useless css class with purgecss.
 * [esbuild-plugin-raw-css](https://github.com/Debonex/esbuild-plugin-raw-css): A plugin to import css files as minified raw text.
@@ -187,14 +190,11 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-wildcard-imports](https://github.com/andreventuravale/esbuild-plugin-wildcard-imports): Wildcard imports for CJS Require, ESM Import/Export, and dynamic imports.
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
+* [esbuild-postcss-inline-styles](https://github.com/antonyevchik/esbuild-postcss-inline-styles): A PostCSS plugin with support for injecting CSS styles into the JS bundle file.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
+* [glob-import-esbuild-plugin](https://github.com/Simonpedro/glob-import-esbuild-plugin): Use globs to import multiple modules based on Vite's `import.meta.glob`.
 * [opentelemetry-esbuild-plugin-node](https://github.com/DrewCorlin/opentelemetry-esbuild-plugin-node): A plugin that instruments NodeJS packages with OpenTelemetry instrumentation.
 * [react-native-esbuild](https://github.com/oblador/react-native-esbuild): Bundler and dev server for react-native using esbuild.
-* [@olton/esbuild-plugin-progress](https://github.com/olton/esbuild-plugin-progress): A plugin for esbuild that shows a progress spinner.
-* [@olton/esbuild-plugin-autoprefixer](https://github.com/olton/esbuild-plugin-autoprefixer): A CSS autoprefixer plugin for esbuild.
-* [@olton/esbuild-plugin-unlink](https://github.com/olton/esbuild-plugin-unlink): Esbuild plugin for unlink files after build.
-* [esbuild-plugin-preserve-directives](https://github.com/Seojunhwan/esbuild-plugin-preserve-directives): A plugin that preserves directives like 'use client' in specified chunks, maintaining them where originally placed, unlike esbuild's banner API which adds to all files.
-* [glob-import-esbuild-plugin](https://github.com/Simonpedro/glob-import-esbuild-plugin): Use globs to import multiple modules based on Vite's `import.meta.glob`.
 
 ### Plugins for Deno
 
