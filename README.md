@@ -18,6 +18,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-css-modules-plugin](https://github.com/indooorsman/esbuild-css-modules-plugin#readme): A plugin to bundle `xxx.modules.css` or `xxx.module.css` into `.js(x)/.ts(x)`. Can build with both `bundle: true` & `bundle: false`. Based on the extremely fast [Lightning CSS](https://lightningcss.dev/).
 * [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
 * [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
+* [esbuild-peggy](https://github.com/rodw/esbuild-peggy): A plugin enabling direct [peggy / peg.js](https://peggyjs.org/) imports into JavaScript / TypeScript files. Available as [`esbuild-peggy` on npm](https://www.npmjs.com/package/esbuild-peggy).
 * [esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv): A plugin to load and compile standalone validation code from JSON Schema / JSON Type Definition.
 * [esbuild-plugin-class-modules](https://github.com/inqnuam/esbuild-plugin-class-modules): A plugin to compile your stylesheets with Saas, PostCSS and CSS Modules.
 * [esbuild-plugin-css-modules](https://github.com/koluch/esbuild-plugin-css-modules): Another one plugin to support CSS-modules (partially)
