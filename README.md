@@ -4,6 +4,8 @@
 
 This is just a centralized list of 3rd-party plugins to make discovery easier. No guarantees are made as to plugin quality, compatibility, or lack of malicious code. As with all 3rd-party dependencies, you should review them yourself before including them in your project.
 
+Note that another way to find esbuild plugins is to search for the [`esbuild-plugin`](https://www.npmjs.com/search?q=keywords:esbuild-plugin&sortBy=downloads_monthly) keyword on the npm registry. That also includes other esbuild plugins which are not on this list.
+
 ## Plugin list
 
 ### New file extensions (hosted on npm)
