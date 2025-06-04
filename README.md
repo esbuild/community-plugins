@@ -155,6 +155,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-obfuscator](https://github.com/MatteoGheza/esbuild-plugin-obfuscator): A plugin to obfuscate JavaScript files during the build process using javascript-obfuscator.
 * [esbuild-plugin-output-reset](https://github.com/yamitsushi/esbuild-plugin-output-reset): Minimal plugin to clean output before starting a new build.
 * [esbuild-plugin-package-json](https://github.com/simonkovtyk/esbuild-plugin-package-json): Prepares the package.json by removing all unnecessary fields and copying it to the out folder.
+* [esbuild-plugin-package-manifest](https://npmjs.org/package/esbuild-plugin-package-manifest): A plugin to generate a npm package manifest from the dependencies of a bundle.
 * [esbuild-plugin-path-alias](https://github.com/indooorsman/esbuild-plugin-path-alias): A esbuild plugin to support path alias like `resolve.alias` in webpack config.
 * [esbuild-plugin-pino](https://github.com/davipon/esbuild-plugin-pino): An esbuild plugin to generate extra pino files for bundling
 * [esbuild-plugin-pipe](https://github.com/nativew/esbuild-plugin-pipe): A plugin to pipe the output of esbuild plugins.
