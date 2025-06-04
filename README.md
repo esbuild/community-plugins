@@ -232,7 +232,7 @@ If you would like to add your plugin to this list, create a PR that updates this
 
 Before creating a PR, please make sure that:
 
-* The package is already published to npm
+* The package is already published to npm/Deno/jsr
 * You are the author of the plugin
 * You are willing to respond to issues about the plugin if people file issues against it
 
