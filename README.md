@@ -61,6 +61,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-wat](https://github.com/mitschabaude/esbuild-plugin-wat): A plugin to import `.wasm` (WebAssembly) and `.wat` (WebAssembly text format).
 * [esbuild-plugin-yaml](https://github.com/martonlederer/esbuild-plugin-yaml): A plugin to load YAML files as ES6 modules.
 * [esbuild-postcss](https://github.com/karolis-sh/esbuild-postcss): A plugin to transform PostCSS files to CSS.
+* [esbuild-postcss-inline-styles](https://github.com/antonyevchik/esbuild-postcss-inline-styles): A PostCSS plugin with support for injecting CSS styles into the JS bundle file.
 * [esbuild-sass-plugin-async](https://github.com/wfleming/esbuild-sass-plugin/): Fork of esbuild-sass-plugin using sass-embedded & async rendering: the advantage is potentially much faster compilation if you have many sass entrypoints, the tradeoff is sass-embedded is not compatible with musl libc distributions.
 * [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another Sass to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
 * [esbuild-squoosh](https://github.com/bognarlaszlo/esbuild-squoosh): A plugin for compressing/optimising images using libSquoosh
