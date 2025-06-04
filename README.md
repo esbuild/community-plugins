@@ -181,6 +181,7 @@ This is just a centralized list of 3rd-party plugins to make discovery easier. N
 * [esbuild-plugin-write-file](https://github.com/ozanozbek/esbuild-plugin-write-file): A plugin for asynchronously creating/writing files in parallel before or after bundling.
 * [esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill): A plugin to polyfill nodejs builtin modules for the browser.
 * [esbuild-svelte-paths](https://github.com/alexxnb/esbuild-svelte-paths): A plugin that resolves shortcuted pathes for Svelte components.
+* [opentelemetry-esbuild-plugin-node](https://github.com/DrewCorlin/opentelemetry-esbuild-plugin-node): A plugin that instruments NodeJS packages with OpenTelemetry instrumentation.
 * [react-native-esbuild](https://github.com/oblador/react-native-esbuild): Bundler and dev server for react-native using esbuild.
 
 ### Plugins for Deno
